@@ -28,9 +28,10 @@ void writeTo(uint8 DEVICE, uint8 address, uint8 val)
 {
   // all i2c transactions send and receive arrays of i2c_msg objects 
   i2c_msg msgs[1]; // we dont do any bursting here, so we only need one i2c_msg object
- uint8 msg_data[2];
-  
-  msg_data = {address,val};  
+  uint8 msg_data[2];
+
+  msg_data = {
+    address,val  };  
   msgs[0].addr = DEVICE;
   msgs[0].flags = 0; 
   msgs[0].length = 2; 
@@ -42,13 +43,13 @@ void readFrom(uint8 DEVICE, uint8 address, uint8 num, uint8 *msg_data)
 {
   i2c_msg msgs[1]; 
   msg_data[0] = address;
-  
+
   msgs[0].addr = DEVICE;
   msgs[0].flags = 0; 
   msgs[0].length = 1; // just one byte for the address to read, 0x00
   msgs[0].data = msg_data;
   i2c_master_xfer(I2C1, msgs, 1,0);
-  
+
   msgs[0].addr = DEVICE;
   msgs[0].flags = I2C_MSG_READ; 
   msgs[0].length = num; 
@@ -57,15 +58,16 @@ void readFrom(uint8 DEVICE, uint8 address, uint8 num, uint8 *msg_data)
 }
 void initAcc(void) 
 {
-    //all i2c transactions send and receive arrays of i2c_msg objects 
+  //all i2c transactions send and receive arrays of i2c_msg objects 
   i2c_msg msgs[1]; // we dont do any bursting here, so we only need one i2c_msg object
   uint8 msg_data[2];
-  msg_data = {0x00,0x00};
+  msg_data = {
+    0x00,0x00  };
   msgs[0].addr = ACC;
   msgs[0].flags = 0; 
   msgs[0].length = 1; // just one byte for the address to read, 0x00
   msgs[0].data = msg_data;
-  
+
   i2c_master_xfer(I2C1, msgs, 1,0);
   msgs[0].addr = ACC;
   msgs[0].flags = I2C_MSG_READ; 
@@ -76,7 +78,7 @@ void initAcc(void)
   uint8 dev_id = msg_data[0];
   //SerialUSB.print("Read device ID from xl345: ");
   //SerialUSB.println(dev_id,HEX);
-  
+
   if (dev_id != XL345_DEVID) 
   {
     SerialUSB.println("Error, incorrect xl345 devid!");
@@ -87,7 +89,7 @@ void initAcc(void)
   writeTo(ACC, ADXLREG_POWER_CTL, 0x00);  
   writeTo(ACC, ADXLREG_POWER_CTL, 0xff);
   writeTo(ACC, ADXLREG_POWER_CTL, 0x08); 
-  
+
 }
 void getAccelerometerData(int16 * result) 
 {
@@ -96,11 +98,13 @@ void getAccelerometerData(int16 * result)
 
   readFrom(ACC, regAddress, A_TO_READ, buff); 
 
-  
+
   result[0] = (((int16)buff[1]) << 8) | buff[0] + a_offx;   
   result[1] = (((int16)buff[3]) << 8) | buff[2] + a_offy;
   result[2] = (((int16)buff[5]) << 8) | buff[4] + a_offz;
 }
+
+
 
 
 

@@ -188,3 +188,4 @@ uint32 bmp085ReadUP()
   up = (((uint32) buff[0] << 16) | ((uint32) buff[1] << 8) | (uint32) buff[2]) >> (8-OSS);
   return up;
 }
+

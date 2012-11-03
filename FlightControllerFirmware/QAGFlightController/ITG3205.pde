@@ -36,3 +36,4 @@ void getGyroscopeData(int16 * result)
   result[2] = (((int16)buff[6] << 8) | buff[7]) + g_offz;
   result[3] = ((int16)buff[0] << 8) | buff[1]; 
 }
+

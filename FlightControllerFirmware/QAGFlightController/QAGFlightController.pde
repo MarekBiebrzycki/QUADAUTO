@@ -1,3 +1,5 @@
+#include <TinyGPS.h>
+
 #include <EasyTransfer.h>
 #include <stdlib.h>
 #include <stdio.h>
@@ -22,7 +24,7 @@ void setup()
 
   //configure I2C port 1 (pins 5, 9) with no special option flags (second argument)
   i2c_master_enable(I2C1, 0);  
-  
+
   initAcc();           
   initGyro();          
   bmp085Calibration(); 
@@ -48,19 +50,19 @@ void loop()
   //delay(100);
   int16 gyro[4];
   getGyroscopeData(gyro);    
-    
-    SerialUSB.print("Xg=");
-    SerialUSB.print(gyro[0]);
-    SerialUSB.print("    ");
-    SerialUSB.print("Yg=");  
-    SerialUSB.print(gyro[1]);
-    SerialUSB.print("    ");
-    SerialUSB.print("Zg=");  
-    SerialUSB.print(gyro[2]);
-    SerialUSB.print("    ");
-   
-    CollissionCheck();
-    RefreshNavigation();
+
+  SerialUSB.print("Xg=");
+  SerialUSB.print(gyro[0]);
+  SerialUSB.print("    ");
+  SerialUSB.print("Yg=");  
+  SerialUSB.print(gyro[1]);
+  SerialUSB.print("    ");
+  SerialUSB.print("Zg=");  
+  SerialUSB.print(gyro[2]);
+  SerialUSB.print("    ");
+
+  CollissionCheck();
+  RefreshNavigation();
 
   int16 temperature = 0;
   int32 pressure = 0;
@@ -76,14 +78,14 @@ void loop()
   SerialUSB.print(" Pa ");
   SerialUSB.print("Altitude: ");
   SerialUSB.print(centimeters, DEC);
-   SerialUSB.print(" cm ");
+  SerialUSB.print(" cm ");
   //SerialUSB.println("    ");
-//  //delay(1000);
-//  float Heading;
-//  Heading = compassHeading();
+  //  //delay(1000);
+  //  float Heading;
+  //  Heading = compassHeading();
   //SerialUSB.print("commpass: ");
-//  SerialUSB.print(Heading, DEC);
-//  SerialUSB.println(" degree");
+  //  SerialUSB.print(Heading, DEC);
+  //  SerialUSB.println(" degree");
   delay(100);
   MotorData[0] = 1;  
   MotorData[1] = 1;
@@ -114,5 +116,7 @@ void loop()
   SerialUSB.print(chan4PPM, DEC);
   SerialUSB.println("  ");  
   delay(100);
- 
+
 }
+
+
