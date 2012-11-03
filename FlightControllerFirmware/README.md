@@ -4,5 +4,6 @@ This is not a Arduino project. The Code is for a board know as the FlyMaple. Whi
 <h2>Links</h2>
 <ul>
 <li><a href='http://www.dfrobot.com/wiki/index.php?title=Flymaple_V1.1%28SKU:DFR0188%29'>FlyMaple Wiki</a></li>
+<li><a href='http://arduiniana.org/libraries/tinygps/'>TinyGPS Original Source - We made Modifications for Porting</a></li>
 </ul>
 

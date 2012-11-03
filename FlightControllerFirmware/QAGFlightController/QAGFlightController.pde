@@ -15,7 +15,7 @@ extern volatile unsigned int chan4PPM;
 
 
 char str[512]; 
-
+TinyGPS gps;
 
 void setup()
 {
