@@ -1,0 +1,9 @@
+C:\QUADAUTO\Website\QuadAutomotiveGroupSite\QuadAuto.Web\bin\Debug\QuadAuto.Web.dll
+C:\QUADAUTO\Website\QuadAutomotiveGroupSite\QuadAuto.Web\bin\Debug\QuadAuto.Web.pdb
+C:\QUADAUTO\Website\QuadAutomotiveGroupSite\QuadAuto.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\QUADAUTO\Website\QuadAutomotiveGroupSite\QuadAuto.Web\obj\Debug\QuadAuto.Web.dll
+C:\QUADAUTO\Website\QuadAutomotiveGroupSite\QuadAuto.Web\obj\Debug\QuadAuto.Web.pdb
+C:\QUADAUTO\Website\QuadAutomotiveGroupSite\QuadAuto.Web\bin\Debug\MongoDB.Bson.dll
+C:\QUADAUTO\Website\QuadAutomotiveGroupSite\QuadAuto.Web\bin\Debug\MongoDB.Driver.dll
+C:\QUADAUTO\Website\QuadAutomotiveGroupSite\QuadAuto.Web\bin\Debug\QuadAuto.dll
+C:\QUADAUTO\Website\QuadAutomotiveGroupSite\QuadAuto.Web\bin\Debug\QuadAuto.pdb

@@ -1,0 +1,66 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="87C62449-A95F-49CE-A7A4-B2D0AA7694B3/d:Services/d:Application/f:BusService.cs" caret="1223" fromTop="15" />
+    <File id="87C62449-A95F-49CE-A7A4-B2D0AA7694B3/f:ServerStart.cs" caret="1346" fromTop="30" />
+    <File id="87C62449-A95F-49CE-A7A4-B2D0AA7694B3/f:QuadAuto.Server.config" caret="0" fromTop="0" />
+    <File id="87C62449-A95F-49CE-A7A4-B2D0AA7694B3/d:Domain/f:AggregateFactory.cs" caret="0" fromTop="0" />
+    <File id="87C62449-A95F-49CE-A7A4-B2D0AA7694B3/f:AbstractWindowsService.cs" caret="0" fromTop="0" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:Home/f:Index.cshtml" caret="371" fromTop="16" />
+    <File id="87C62449-A95F-49CE-A7A4-B2D0AA7694B3/d:Domain/d:MassTransit/f:ServiceBusEx.cs" caret="0" fromTop="0" />
+    <File id="87C62449-A95F-49CE-A7A4-B2D0AA7694B3/f:Keys.cs" caret="1740" fromTop="50" />
+    <File id="87C62449-A95F-49CE-A7A4-B2D0AA7694B3/d:Services/f:MassTransitFacility.cs" caret="1313" fromTop="12" />
+    <File id="87C62449-A95F-49CE-A7A4-B2D0AA7694B3/d:Services/f:WindsorInstaller.cs" caret="0" fromTop="0" />
+    <File id="87C62449-A95F-49CE-A7A4-B2D0AA7694B3/d:Services/f:EventStoreFacility.cs" caret="1460" fromTop="11" />
+    <File id="87C62449-A95F-49CE-A7A4-B2D0AA7694B3/d:Domain/d:MassTransit/f:ConsumeContextEcetn.cs" caret="0" fromTop="0" />
+    <File id="87C62449-A95F-49CE-A7A4-B2D0AA7694B3/d:Domain/d:MassTransit/f:DelegateAdjuster.cs" caret="0" fromTop="0" />
+    <File id="87C62449-A95F-49CE-A7A4-B2D0AA7694B3/d:Domain/d:MassTransit/f:MassTransitPublisher.cs" caret="1275" fromTop="32" />
+    <File id="87C62449-A95F-49CE-A7A4-B2D0AA7694B3/d:Domain/d:MassTransit/f:PrivateReflectionDynamicObject.cs" caret="6203" fromTop="169" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/f:_ViewStart.cshtml" caret="8" fromTop="1" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Models/f:MongoRegistration.cs" caret="0" fromTop="0" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Services/f:DotNetPropertyService.cs" caret="0" fromTop="0" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Services/f:IPropertyService.cs" caret="865" fromTop="17" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:Index.cshtml" caret="3292" fromTop="15" />
+    <File id="5051C31F-5668-4C01-8FE4-81D3BC1AE25B/d:Controllers/d:Members/d:Commands/f:SubmitMemberApplication.cs" caret="1978" fromTop="40" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:ControllerServices/f:WindsorInstaller.cs" caret="1340" fromTop="26" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:ControllerServices/f:CommitteesService.cs" caret="1345" fromTop="30" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Controllers/f:HomeController.cs" caret="1297" fromTop="33" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Controllers/f:MemberApplicationController.cs" caret="1093" fromTop="27" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:ControllerServices/f:MemberApplicationService.cs" caret="1261" fromTop="9" />
+    <File id="5051C31F-5668-4C01-8FE4-81D3BC1AE25B/d:Controllers/d:Members/d:Commands/f:ApproveMemberApplication.cs" caret="0" fromTop="0" />
+    <File id="5051C31F-5668-4C01-8FE4-81D3BC1AE25B/d:Controllers/d:Members/d:Commands/f:DenyMemberApplication.cs" caret="0" fromTop="0" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:SubmitApplication.cshtml" caret="129" fromTop="6" />
+    <File id="5051C31F-5668-4C01-8FE4-81D3BC1AE25B/d:Controllers/d:Members/d:Events/f:Class1.cs" caret="884" fromTop="19" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:Index.cshtml" caret="5484" fromTop="39" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:Index.cshtml" caret="5484" fromTop="13" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:Index.cshtml" caret="5484" fromTop="17" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:Index.cshtml" caret="5484" fromTop="21" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:Index.cshtml" caret="5484" fromTop="25" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:Index.cshtml" caret="5484" fromTop="40" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:Index.cshtml" caret="5484" fromTop="39" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:Index.cshtml" caret="5484" fromTop="47" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:Index.cshtml" caret="5484" fromTop="48" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:Index.cshtml" caret="5484" fromTop="11" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:Index.cshtml" caret="5484" fromTop="16" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:Index.cshtml" caret="5484" fromTop="4" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:Index.cshtml" caret="5484" fromTop="10" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:Index.cshtml" caret="429" fromTop="13" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:Index.cshtml" caret="5485" fromTop="40" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:Index.cshtml" caret="124" fromTop="6" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Controllers/f:HomeController.cs" caret="1297" fromTop="33" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:Index.cshtml" caret="5380" fromTop="11" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Services/f:IPropertyService.cs" caret="1095" fromTop="26" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:ControllerServices/f:CommitteesService.cs" caret="1429" fromTop="49" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:ControllerServices/f:CommitteesService.cs" caret="1429" fromTop="34" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:ControllerServices/f:WindsorInstaller.cs" caret="1340" fromTop="26" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:ControllerServices/f:CommitteesService.cs" caret="1432" fromTop="34" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Controllers/f:MemberApplicationController.cs" caret="482" fromTop="16" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Controllers/f:MemberApplicationController.cs" caret="321" fromTop="11" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:ControllerServices/f:MemberApplicationService.cs" caret="1814" fromTop="33" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:ControllerServices/f:MemberApplicationService.cs" caret="723" fromTop="19" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:ControllerServices/f:MemberApplicationService.cs" caret="2141" fromTop="38" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Controllers/f:MemberApplicationController.cs" caret="1066" fromTop="26" />
+    <File id="54E78CC2-31F7-4EDB-BA9C-02BB108E0921/d:Views/d:MemberApplication/f:SubmitApplication.cshtml" caret="122" fromTop="5" />
+  </RecentEdits>
+</RecentFiles>

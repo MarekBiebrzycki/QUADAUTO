@@ -1,0 +1,95 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("SubmitApplication","MemberApplication")){
+<div align="center">
+    <h2>Member Application</h2>
+    <table width="800"> <tr>
+                             <td>
+                                 <table>
+                                     <tr>
+                                         <td align="right" width="50%">First Name:</td>
+                                         <td align="left"><input type="text" id="FirstName"/></td>
+                                     </tr>
+                                     <tr>
+                                         <td align="right">Last Name:</td>
+                                         <td align="left"><input type="text" id="LastName"/></td>
+                                     </tr>
+                                     <tr>
+                                         <td align="right">Email Address:</td>
+                                         <td align="left"><input type="text" id="EmailAddress"/></td>
+                                     </tr>
+                                     <tr>
+                                         <td align="right">Birthdate:</td>
+                                         <td align="left"><input type="text" id="BirthDate"/></td>
+                                     </tr>
+
+                                     <tr>
+                                         <td align="left" colspan="2"><h3>How I will contribute to the Project:</h3></td>                            
+                                     </tr>
+                                     <tr>
+                                         <td align="left" colspan="2"><textarea id="HowWillIContributeToTheProject" cols="55"></textarea></td>            
+                                     </tr>
+                                     <tr>
+                                         <td align="left" colspan="2"><h3>My Skills Background:</h3></td>                            
+                                     </tr>
+                                     <tr>
+                                         <td align="left" colspan="2"><textarea id="SkillsBackground"  cols="55"></textarea></td>            
+                                     </tr>
+        
+                                 </table>
+                             </td>
+                             <td valign="top">
+                                 <table>
+                                     <tr>
+                                         <td colspan="2">
+                                             <h3>Application Fee: $25 USD</h3>   
+                                             This fee is submited with the application to insure you are serious about commiting your self to the Project. This fee will convert to your first months Dues if accepted. (Note if your application is denied your Application fee will be refunded.) 
+                                         </td>
+                                     </tr>
+                                     <tr>
+                                         <td align="right">Credit Card Number:</td>
+                                         <td align="left"><input type="text" id="CardNumber"/></td>
+                                     </tr>
+                                     <tr>
+                                         <td align="right">Expiration Month/Year:</td>
+                                         <td align="left">
+                                             <select id="ExpMonth">
+                                                 <option>1</option>
+                                                 <option>2</option>
+                                                 <option>3</option>
+                                                 <option>4</option>
+                                                 <option>5</option>
+                                                 <option>6</option>
+                                                 <option>7</option>
+                                                 <option>8</option>
+                                                 <option>9</option>
+                                                 <option>10</option>
+                                                 <option>11</option>
+                                                 <option>12</option>
+                                             </select>
+                                             <select id="ExpYear">
+                                                 <option>2012</option>
+                                                 <option>2013</option>
+                                                 <option>2014</option>
+                                             </select>
+                                         </td>
+                                     </tr>
+                                     <tr>
+                                         <td align="right">CVV:</td>
+                                         <td align="left"><input type="text" id="Cvv"/></td>
+                                     </tr>
+                                 </table>
+                             </td>
+                         </tr>
+        <tr>
+            <td align="right" colspan="2">
+                <input type="submit" value="Submit Application" id="submit"/>
+            </td>
+        </tr>
+    </table>
+    
+</div>}

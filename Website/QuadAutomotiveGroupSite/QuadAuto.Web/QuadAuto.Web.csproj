@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5051C31F-5668-4C01-8FE4-81D3BC1AE25B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QuadAuto.Web</RootNamespace>
+    <AssemblyName>QuadAuto.Web</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MongoDB.Bson">
+      <HintPath>..\..\Libs\mongo-csharp-driver\MongoDB.Bson.dll</HintPath>
+    </Reference>
+    <Reference Include="MongoDB.Driver">
+      <HintPath>..\..\Libs\mongo-csharp-driver\MongoDB.Driver.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseModel.cs" />
+    <Compile Include="Controllers\Committees\Commands\AddNewCommittee.cs" />
+    <Compile Include="Controllers\Committees\Commands\AddNewCommitteeContentPage.cs" />
+    <Compile Include="Controllers\Committees\Commands\AssignNewCommitteePresident.cs" />
+    <Compile Include="Controllers\Committees\Commands\RenameCommittee.cs" />
+    <Compile Include="Controllers\Committees\Commands\UpdateCommitteeContent.cs" />
+    <Compile Include="Controllers\Committees\Events\NewCommitteeAdded.cs" />
+    <Compile Include="Controllers\Committees\QueryModels\AddCommitteeMember.cs" />
+    <Compile Include="Controllers\Committees\QueryModels\CommitteeModel.cs" />
+    <Compile Include="Controllers\Committees\QueryModels\CommitteesQueryModel.cs" />
+    <Compile Include="Controllers\Committees\QueryModels\MongoInstaller.cs" />
+    <Compile Include="Controllers\Committees\QueryModels\RemoveCommitteeMember.cs" />
+    <Compile Include="Controllers\Meetings\Commands\MoveEvent.cs" />
+    <Compile Include="Controllers\Meetings\Commands\ReScheduleEvent.cs" />
+    <Compile Include="Controllers\Meetings\QueryModels\AgendaItem.cs" />
+    <Compile Include="Controllers\Meetings\QueryModels\CommitteeMeeting.cs" />
+    <Compile Include="Controllers\Meetings\QueryModels\EventLocation.cs" />
+    <Compile Include="Controllers\Members\Commands\ApproveMemberApplication.cs" />
+    <Compile Include="Controllers\Members\Commands\DenyMemberApplication.cs" />
+    <Compile Include="Controllers\Members\Commands\SponsorMemberApplication.cs" />
+    <Compile Include="Controllers\Members\Commands\TerminateMember.cs" />
+    <Compile Include="Controllers\Members\QueryModels\BaseGroupMemberModel.cs" />
+    <Compile Include="Controllers\Members\QueryModels\BaseMembershipModel.cs" />
+    <Compile Include="Controllers\Members\QueryModels\MembershipTypeModel.cs" />
+    <Compile Include="Controllers\Pages\Commands\AddNewChildPage.cs" />
+    <Compile Include="Controllers\Pages\Commands\UpdatePageContent.cs" />
+    <Compile Include="Controllers\Pages\Commands\UpdatePageMenuTitle.cs" />
+    <Compile Include="Controllers\Pages\Commands\UpdatePageTitle.cs" />
+    <Compile Include="Controllers\Pages\Commands\ViewPage.cs" />
+    <Compile Include="Controllers\Template\Commands\Class1.cs" />
+    <Compile Include="Controllers\Template\Events\Class1.cs" />
+    <Compile Include="Controllers\Template\QueryModels\Class1.cs" />
+    <Compile Include="Controllers\Meetings\Commands\ScheduleEvent.cs" />
+    <Compile Include="Controllers\Meetings\Events\Class1.cs" />
+    <Compile Include="Controllers\Meetings\QueryModels\EventItem.cs" />
+    <Compile Include="Controllers\Members\Commands\SubmitMemberApplication.cs" />
+    <Compile Include="Controllers\Members\Events\Class1.cs" />
+    <Compile Include="Controllers\Members\QueryModels\GroupMemberModel.cs" />
+    <Compile Include="Controllers\Pages\Commands\AddNewPage.cs" />
+    <Compile Include="Controllers\Pages\Events\Class1.cs" />
+    <Compile Include="Controllers\Pages\QueryModels\PageModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\QuadAuto\QuadAuto.csproj">
+      <Project>{62188AA9-FB9D-41DD-A408-427B5791FE5A}</Project>
+      <Name>QuadAuto</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

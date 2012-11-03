@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="54E78CC2-31F7-4EDB-BA9C-02BB108E0921" ModuleId="QuadAutomotiveGroupSite" />
+  <Module PersistentId="5051C31F-5668-4C01-8FE4-81D3BC1AE25B" ModuleId="QuadAuto.Web" />
+  <Module PersistentId="87C62449-A95F-49CE-A7A4-B2D0AA7694B3" ModuleId="QuadAuto.Server" />
+  <Module PersistentId="5593C479-7661-4524-8187-B1D5A06BF833" ModuleId="QuadAuto.Server.Web" />
+  <Module PersistentId="62188AA9-FB9D-41DD-A408-427B5791FE5A" ModuleId="QuadAuto" />
+  <Module PersistentId="XamarinStripe, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="XamarinStripe" />
+</Modules>

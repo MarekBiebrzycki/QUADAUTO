@@ -1,0 +1,2551 @@
+INFO  2012-08-21 11:59:42 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 11:59:44 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 11:59:44 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 11:59:44 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 11:59:44 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 11:59:44 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 12:00:02 - <clock> FolderChanged
+INFO  2012-08-21 12:00:02 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 12:13:41 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 12:13:42 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 12:13:42 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 12:13:42 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 12:13:43 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 12:13:43 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 12:14:01 - <clock> FolderChanged
+INFO  2012-08-21 12:14:01 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 12:18:56 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 12:18:58 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 12:18:58 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 12:18:58 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 12:18:58 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 12:18:58 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 12:19:16 - <clock> FolderChanged
+INFO  2012-08-21 12:19:16 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 12:25:59 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 12:26:01 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 12:26:01 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 12:26:01 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 12:26:01 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 12:26:01 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 12:26:19 - <clock> FolderChanged
+INFO  2012-08-21 12:26:19 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 12:27:46 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 12:27:48 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 12:27:48 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 12:27:48 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 12:27:48 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 12:27:48 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 12:28:06 - <clock> FolderChanged
+INFO  2012-08-21 12:28:06 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 12:29:06 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 12:29:07 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 12:29:07 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 12:29:07 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 12:29:07 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 12:29:07 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 12:29:25 - <clock> FolderChanged
+INFO  2012-08-21 12:29:25 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 01:23:39 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 01:23:40 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 01:23:40 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 01:23:40 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 01:23:41 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 01:23:41 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 01:23:59 - <clock> FolderChanged
+INFO  2012-08-21 01:23:59 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 01:24:50 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 01:24:52 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 01:24:52 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 01:24:52 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 01:24:52 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 01:24:52 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 01:25:10 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 01:29:49 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 01:29:51 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 01:29:51 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 01:29:51 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 01:29:51 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 01:29:51 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 01:30:09 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 01:32:42 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 01:32:44 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 01:32:44 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 01:32:44 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 01:32:44 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 01:32:44 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 01:33:02 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 01:34:16 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 01:34:18 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 01:34:18 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 01:34:18 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 01:34:18 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 01:34:18 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 01:34:36 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 01:35:39 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 01:35:41 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 01:35:41 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 01:35:41 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 01:35:42 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 01:35:42 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 01:36:00 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 01:38:34 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 01:38:36 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 01:38:36 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 01:38:36 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 01:38:36 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 01:38:36 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 01:38:54 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 01:39:49 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 01:39:51 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 01:39:51 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 01:39:51 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 01:39:51 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 01:39:51 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 01:40:09 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 01:41:59 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 01:42:00 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 01:42:00 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 01:42:00 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 01:42:00 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 01:42:00 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 01:42:18 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 01:43:25 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 01:43:27 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 01:43:27 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 01:43:27 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 01:43:27 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 01:43:27 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 01:43:45 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 01:44:38 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 01:44:40 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 01:44:40 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 01:44:40 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 01:44:40 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 01:44:40 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 01:44:58 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 01:50:45 - <TopShelf.DirectoryMonitor> Stopping
+INFO  2012-08-21 01:50:45 - [TopShelf.DirectoryMonitor] Stop complete
+INFO  2012-08-21 01:50:45 - <TopShelf.DirectoryMonitor> Stopped
+INFO  2012-08-21 01:50:46 - <TopShelf.DirectoryMonitor> Unloading
+INFO  2012-08-21 01:50:46 - [TopShelf.DirectoryMonitor] Unload complete
+INFO  2012-08-21 01:50:46 - <TopShelf.DirectoryMonitor> Unloaded
+INFO  2012-08-21 01:50:46 - [TopShelf.DirectoryMonitor] Unloading Shelf and AppDomain
+INFO  2012-08-21 01:51:05 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 01:51:06 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 01:51:06 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 01:51:06 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 01:51:07 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 01:51:07 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 01:51:25 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 01:54:16 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 01:54:17 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 01:54:17 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 01:54:17 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 01:54:17 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 01:54:17 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 01:54:36 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 01:56:41 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 01:56:43 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 01:56:43 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 01:56:43 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 01:56:43 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 01:56:43 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 01:57:01 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 01:57:38 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 01:57:40 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 01:57:40 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 01:57:40 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 01:57:40 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 01:57:40 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 01:57:58 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 02:03:08 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 02:03:10 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 02:03:10 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 02:03:10 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 02:03:10 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 02:03:10 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 02:03:28 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 02:04:19 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 02:04:21 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 02:04:21 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 02:04:21 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 02:04:21 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 02:04:21 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 02:04:39 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 02:05:16 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 02:05:18 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 02:05:18 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 02:05:18 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 02:05:18 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 02:05:18 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 02:05:36 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 02:06:48 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 02:06:50 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 02:06:50 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 02:06:50 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 02:06:50 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 02:06:50 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 02:07:08 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 02:08:52 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 02:08:53 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 02:08:53 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 02:08:53 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 02:08:54 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 02:08:54 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 02:09:12 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 02:09:54 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 02:09:56 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 02:09:56 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 02:09:56 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 02:09:56 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 02:09:56 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 02:10:14 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 02:11:11 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 02:11:13 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 02:11:13 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 02:11:13 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 02:11:13 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 02:11:13 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 02:11:31 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 02:12:06 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 02:12:08 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 02:12:08 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 02:12:08 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 02:12:08 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 02:12:08 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 02:12:26 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 02:27:47 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 02:27:49 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 02:27:49 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 02:27:49 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 02:27:49 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 02:27:49 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 02:28:07 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 02:36:03 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 02:36:05 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 02:36:05 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 02:36:05 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 02:36:05 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 02:36:05 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 02:36:23 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 02:38:06 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 02:38:07 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 02:38:07 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 02:38:07 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 02:38:07 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 02:38:07 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 02:38:26 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 02:40:19 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 02:40:20 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 02:40:20 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 02:40:20 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 02:40:20 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 02:40:20 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 02:40:39 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 02:47:34 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 02:47:36 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 02:47:36 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 02:47:36 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 02:47:36 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 02:47:36 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 02:47:54 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 02:50:13 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 02:50:14 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 02:50:14 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 02:50:14 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 02:50:14 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 02:50:14 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 02:50:32 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 02:52:10 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 02:52:12 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 02:52:12 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 02:52:12 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 02:52:12 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 02:52:12 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 02:52:30 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 02:54:45 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 02:54:47 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 02:54:47 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 02:54:47 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 02:54:47 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 02:54:47 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 02:55:05 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 02:57:57 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 02:57:58 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 02:57:58 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 02:57:58 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 02:57:59 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 02:57:59 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 02:58:17 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 03:00:29 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 03:00:30 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 03:00:30 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 03:00:31 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 03:00:31 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 03:00:31 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 03:00:49 - <Sc2.Server> FolderChanged
+INFO  2012-08-21 03:05:15 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-21 03:05:16 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-21 03:05:16 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-21 03:05:16 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-21 03:05:16 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-21 03:05:16 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-21 03:05:34 - <Sc2.Server> FolderChanged
+INFO  2012-08-22 08:24:02 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 08:24:04 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 08:24:04 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 08:24:04 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 08:24:04 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 08:24:04 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 08:24:22 - <Sc2.Server> FolderChanged
+INFO  2012-08-22 08:26:20 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 08:26:21 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 08:26:21 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 08:26:21 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 08:26:21 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 08:26:21 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 08:26:39 - <Sc2.Server> FolderChanged
+INFO  2012-08-22 08:28:44 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 08:28:45 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 08:28:45 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 08:28:45 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 08:28:45 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 08:28:45 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 08:29:03 - <Sc2.Server> FolderChanged
+INFO  2012-08-22 08:30:33 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 08:30:34 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 08:30:34 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 08:30:35 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 08:30:35 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 08:30:35 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 08:30:53 - <Sc2.Server> FolderChanged
+INFO  2012-08-22 08:31:35 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 08:31:36 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 08:31:36 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 08:31:36 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 08:31:37 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 08:31:37 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 08:31:55 - <Sc2.Server> FolderChanged
+INFO  2012-08-22 08:32:36 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 08:32:38 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 08:32:38 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 08:32:38 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 08:32:38 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 08:32:38 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 08:32:56 - <Sc2.Server> FolderChanged
+INFO  2012-08-22 10:08:46 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 10:08:48 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 10:08:48 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 10:08:48 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 10:08:48 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 10:08:48 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 10:13:09 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 10:13:11 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 10:13:11 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 10:13:11 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 10:13:11 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 10:13:11 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 10:17:13 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 10:17:16 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 10:17:16 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 10:17:16 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 10:17:16 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 10:17:16 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 10:17:34 - <Sc2.Server> FolderChanged
+INFO  2012-08-22 10:19:54 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 10:19:56 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 10:19:56 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 10:19:56 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 10:19:57 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 10:19:57 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 10:20:15 - <Sc2.Server> FolderChanged
+INFO  2012-08-22 10:25:13 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 10:25:15 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 10:25:15 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 10:25:15 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 10:25:15 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 10:25:15 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 10:25:33 - <Sc2.Server> FolderChanged
+INFO  2012-08-22 10:30:11 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 10:30:12 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 10:30:12 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 10:30:12 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 10:30:12 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 10:30:12 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 10:30:31 - <Sc2.Server> FolderChanged
+INFO  2012-08-22 10:34:25 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 10:34:27 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 10:34:27 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 10:34:27 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 10:34:27 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 10:34:27 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 10:34:45 - <Sc2.Server> FolderChanged
+INFO  2012-08-22 10:36:12 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 10:36:15 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 10:36:15 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 10:36:15 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 10:36:15 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 10:36:15 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 10:36:33 - <Sc2.Server> FolderChanged
+INFO  2012-08-22 10:38:45 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 10:38:46 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 10:38:46 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 10:38:46 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 10:38:46 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 10:38:46 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 10:39:04 - <Sc2.Server> FolderChanged
+INFO  2012-08-22 10:43:52 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 10:43:54 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 10:43:54 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 10:43:54 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 10:43:54 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 10:43:54 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 10:44:12 - <Sc2.Server> FolderChanged
+INFO  2012-08-22 10:45:37 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 10:45:39 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 10:45:39 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 10:45:39 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 10:45:39 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 10:45:39 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 10:45:57 - <Sc2.Server> FolderChanged
+INFO  2012-08-22 10:52:13 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 10:52:15 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 10:52:15 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 10:52:15 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 10:52:16 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 10:52:16 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 10:52:34 - <Sc2.Server> FolderChanged
+INFO  2012-08-22 10:53:33 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 10:53:35 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 10:53:35 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 10:53:35 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 10:53:36 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 10:53:36 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 10:53:54 - <Sc2.Server> FolderChanged
+INFO  2012-08-22 10:57:21 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 10:57:23 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 10:57:23 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 10:57:23 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 10:57:23 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 10:57:23 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 10:57:41 - <Sc2.Server> FolderChanged
+INFO  2012-08-22 11:54:27 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 11:54:29 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 11:54:29 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 11:54:29 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 11:54:29 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 11:54:29 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 12:07:56 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 12:07:58 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 12:07:58 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 12:07:58 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 12:07:58 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 12:07:58 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 12:44:51 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-22 12:44:53 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-22 12:44:53 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-22 12:44:53 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-22 12:44:53 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-22 12:44:53 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-22 12:45:11 - <Sc2.Server> FolderChanged
+INFO  2012-08-23 08:59:35 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-23 08:59:36 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-23 08:59:36 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-23 08:59:36 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-23 08:59:36 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-23 08:59:36 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-23 01:15:58 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-23 01:16:00 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-23 01:16:00 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-23 01:16:00 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-23 01:16:00 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-23 01:16:00 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-23 01:16:18 - <Sc2.Server> FolderChanged
+INFO  2012-08-23 01:21:48 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-23 01:21:49 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-23 01:21:49 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-23 01:21:49 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-23 01:21:49 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-23 01:21:49 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-23 01:22:08 - <Sc2.Server> FolderChanged
+INFO  2012-08-23 01:24:30 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-23 01:24:32 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-23 01:24:32 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-23 01:24:32 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-23 01:24:32 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-23 01:24:32 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-23 01:24:50 - <Sc2.Server> FolderChanged
+INFO  2012-08-23 01:26:43 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-23 01:26:44 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-23 01:26:44 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-23 01:26:44 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-23 01:26:44 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-23 01:26:44 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-23 01:27:02 - <Sc2.Server> FolderChanged
+INFO  2012-08-23 02:49:51 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-23 02:49:52 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-23 02:49:52 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-23 02:49:52 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-23 02:49:53 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-23 02:49:53 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-23 02:50:11 - <Sc2.Server> FolderChanged
+INFO  2012-08-23 02:51:39 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-23 02:51:41 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-23 02:51:41 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-23 02:51:41 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-23 02:51:41 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-23 02:51:41 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-23 02:51:59 - <Sc2.Server> FolderChanged
+INFO  2012-08-23 03:17:39 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-23 03:17:41 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-23 03:17:41 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-23 03:17:41 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-23 03:17:41 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-23 03:17:41 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-23 03:17:59 - <Sc2.Server> FolderChanged
+INFO  2012-08-23 03:23:14 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-23 03:23:15 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-23 03:23:15 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-23 03:23:15 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-23 03:23:15 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-23 03:23:15 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-23 03:23:33 - <Sc2.Server> FolderChanged
+INFO  2012-08-24 08:37:54 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-24 08:37:56 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-24 08:37:56 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-24 08:37:56 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-24 08:37:56 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-24 08:37:56 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-24 08:38:14 - <Sc2.Server> FolderChanged
+INFO  2012-08-24 08:39:40 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-24 08:39:42 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-24 08:39:42 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-24 08:39:42 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-24 08:39:42 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-24 08:39:42 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-24 08:40:00 - <Sc2.Server> FolderChanged
+INFO  2012-08-24 08:42:32 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-24 08:42:34 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-24 08:42:34 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-24 08:42:34 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-24 08:42:34 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-24 08:42:34 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-24 08:42:52 - <Sc2.Server> FolderChanged
+INFO  2012-08-24 09:06:46 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-24 09:06:48 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-24 09:06:48 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-24 09:06:48 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-24 09:06:48 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-24 09:06:48 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-24 09:07:06 - <Sc2.Server> FolderChanged
+INFO  2012-08-24 10:43:36 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-24 10:43:38 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-24 10:43:38 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-24 10:43:38 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-24 10:43:38 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-24 10:43:38 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-24 10:43:56 - <Sc2.Server> FolderChanged
+INFO  2012-08-24 01:38:54 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-24 01:38:55 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-24 01:38:55 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-24 01:38:55 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-24 01:38:55 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-24 01:38:55 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-24 01:39:13 - <Sc2.Server> FolderChanged
+INFO  2012-08-24 01:48:14 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-24 01:48:16 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-24 01:48:16 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-24 01:48:16 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-24 01:48:16 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-24 01:48:16 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-24 01:48:34 - <Sc2.Server> FolderChanged
+INFO  2012-08-24 02:07:45 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-24 02:07:47 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-24 02:07:47 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-24 02:07:47 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-24 02:07:47 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-24 02:07:47 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-24 02:08:05 - <Sc2.Server> FolderChanged
+INFO  2012-08-24 02:18:05 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-24 02:18:06 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-24 02:18:06 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-24 02:18:06 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-24 02:18:06 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-24 02:18:06 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-24 02:18:24 - <Sc2.Server> FolderChanged
+INFO  2012-08-27 11:15:30 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-27 11:15:31 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-27 11:15:31 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-27 11:15:31 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-27 11:15:31 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-27 11:15:31 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-27 11:15:49 - <Sc2.Server> FolderChanged
+INFO  2012-08-27 11:16:37 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-27 11:16:39 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-27 11:16:39 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-27 11:16:39 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-27 11:16:39 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-27 11:16:39 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-27 11:16:57 - <Sc2.Server> FolderChanged
+INFO  2012-08-27 11:37:33 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-27 11:37:35 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-27 11:37:35 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-27 11:37:35 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-27 11:37:35 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-27 11:37:35 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-27 11:37:53 - <Sc2.Server> FolderChanged
+INFO  2012-08-27 12:06:53 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-27 12:06:55 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-27 12:06:55 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-27 12:06:55 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-27 12:06:55 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-27 12:06:55 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-27 12:07:13 - <Sc2.Server> FolderChanged
+INFO  2012-08-28 11:19:24 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-28 11:19:26 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-28 11:19:26 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-28 11:19:26 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-28 11:19:26 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-28 11:19:26 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-28 11:19:46 - <Sc2.Server> FolderChanged
+INFO  2012-08-28 11:26:07 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-28 11:26:09 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-28 11:26:09 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-28 11:26:09 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-28 11:26:09 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-28 11:26:09 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-28 11:26:27 - <Sc2.Server> FolderChanged
+INFO  2012-08-28 11:27:05 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-28 11:27:07 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-28 11:27:07 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-28 11:27:07 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-28 11:27:07 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-28 11:27:07 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-28 11:27:25 - <Sc2.Server> FolderChanged
+INFO  2012-08-30 08:02:50 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-30 08:02:52 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-30 08:02:52 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-30 08:02:52 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-30 08:02:52 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-30 08:02:52 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-30 08:03:15 - <Sc2.Server> FolderChanged
+INFO  2012-08-30 08:05:33 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-30 08:05:34 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-30 08:05:34 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-30 08:05:34 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-30 08:05:34 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-30 08:05:34 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-30 08:05:52 - <Sc2.Server> FolderChanged
+INFO  2012-08-30 08:07:05 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-30 08:07:07 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-30 08:07:07 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-30 08:07:07 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-30 08:07:07 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-30 08:07:07 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-30 08:07:25 - <Sc2.Server> FolderChanged
+INFO  2012-08-30 08:08:47 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-30 08:08:49 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-30 08:08:49 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-30 08:08:49 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-30 08:08:49 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-30 08:08:49 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-30 08:09:07 - <Sc2.Server> FolderChanged
+INFO  2012-08-30 08:11:04 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-30 08:11:07 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-30 08:11:07 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-30 08:11:07 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-30 08:11:08 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-30 08:11:08 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-30 08:11:26 - <Sc2.Server> FolderChanged
+INFO  2012-08-30 08:14:32 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-30 08:14:34 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-30 08:14:34 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-30 08:14:34 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-30 08:14:34 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-30 08:14:34 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-30 08:14:52 - <Sc2.Server> FolderChanged
+INFO  2012-08-30 08:18:36 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-30 08:18:37 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-30 08:18:37 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-30 08:18:37 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-30 08:18:37 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-30 08:18:37 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-30 08:18:56 - <Sc2.Server> FolderChanged
+INFO  2012-08-30 08:26:44 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-30 08:26:46 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-30 08:26:46 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-30 08:26:46 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-30 08:26:46 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-30 08:26:46 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-30 08:27:04 - <Sc2.Server> FolderChanged
+INFO  2012-08-30 08:29:18 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-30 08:29:20 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-30 08:29:20 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-30 08:29:20 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-30 08:29:20 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-30 08:29:20 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-30 08:29:38 - <Sc2.Server> FolderChanged
+INFO  2012-08-30 08:30:54 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-30 08:30:55 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-30 08:30:55 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-30 08:30:55 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-30 08:30:55 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-30 08:30:55 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-30 08:31:13 - <Sc2.Server> FolderChanged
+INFO  2012-08-30 08:33:41 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-30 08:33:42 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-30 08:33:42 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-30 08:33:42 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-30 08:33:42 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-30 08:33:42 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-30 08:34:01 - <Sc2.Server> FolderChanged
+INFO  2012-08-30 03:34:31 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-30 03:34:33 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-30 03:34:33 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-30 03:34:33 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-30 03:34:33 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-30 03:34:33 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-30 03:34:52 - <Sc2.Server> FolderChanged
+INFO  2012-08-31 08:00:16 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-31 08:00:18 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-31 08:00:18 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-31 08:00:18 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-31 08:00:18 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-31 08:00:18 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-31 08:00:36 - <Sc2.Server> FolderChanged
+INFO  2012-08-31 08:03:16 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-31 08:03:18 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-31 08:03:18 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-31 08:03:18 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-31 08:03:18 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-31 08:03:18 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-31 08:03:36 - <Sc2.Server> FolderChanged
+INFO  2012-08-31 08:45:20 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-31 08:45:21 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-31 08:45:21 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-31 08:45:21 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-31 08:45:22 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-31 08:45:22 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-31 08:45:41 - <Sc2.Server> FolderChanged
+INFO  2012-08-31 08:47:57 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-31 08:47:59 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-31 08:47:59 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-31 08:47:59 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-31 08:47:59 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-31 08:47:59 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-31 08:48:17 - <Sc2.Server> FolderChanged
+INFO  2012-08-31 08:55:44 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-31 08:55:45 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-31 08:55:45 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-31 08:55:45 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-31 08:55:45 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-31 08:55:45 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-31 08:56:03 - <Sc2.Server> FolderChanged
+INFO  2012-08-31 09:23:56 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-31 09:23:58 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-31 09:23:58 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-31 09:23:58 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-31 09:23:58 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-31 09:23:58 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-31 09:24:16 - <Sc2.Server> FolderChanged
+INFO  2012-08-31 09:54:28 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-31 09:54:30 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-31 09:54:30 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-31 09:54:30 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-31 09:54:30 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-31 09:54:30 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-31 09:54:48 - <Sc2.Server> FolderChanged
+INFO  2012-08-31 10:03:17 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-31 10:03:18 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-31 10:03:18 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-31 10:03:18 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-31 10:03:18 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-31 10:03:18 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-31 10:03:37 - <Sc2.Server> FolderChanged
+INFO  2012-08-31 12:02:57 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-31 12:02:59 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-31 12:02:59 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-31 12:02:59 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-31 12:02:59 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-31 12:02:59 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-31 12:03:17 - <Sc2.Server> FolderChanged
+INFO  2012-08-31 12:11:37 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-31 12:11:38 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-31 12:11:38 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-31 12:11:38 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-31 12:11:39 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-31 12:11:39 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-31 12:13:59 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-31 12:14:01 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-31 12:14:01 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-31 12:14:01 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-31 12:14:01 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-31 12:14:01 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-31 12:14:19 - <Sc2.Server> FolderChanged
+INFO  2012-08-31 12:15:24 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-31 12:15:25 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-31 12:15:25 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-31 12:15:25 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-31 12:15:26 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-31 12:15:26 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-31 12:15:44 - <Sc2.Server> FolderChanged
+INFO  2012-08-31 12:33:40 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-31 12:33:41 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-31 12:33:41 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-31 12:33:41 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-31 12:33:41 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-31 12:33:42 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-31 12:34:00 - <Sc2.Server> FolderChanged
+INFO  2012-08-31 12:52:07 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-08-31 12:52:09 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-08-31 12:52:09 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-08-31 12:52:09 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-08-31 12:52:09 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-08-31 12:52:09 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-08-31 12:52:27 - <Sc2.Server> FolderChanged
+INFO  2012-09-04 10:32:36 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-04 10:32:38 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-04 10:32:38 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-04 10:32:38 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-04 10:32:38 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-04 10:32:38 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-04 04:45:57 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-04 04:45:59 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-04 04:45:59 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-04 04:45:59 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-04 04:45:59 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-04 04:45:59 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-04 04:46:18 - <Sc2.Server> FolderChanged
+INFO  2012-09-04 04:49:45 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-04 04:49:47 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-04 04:49:47 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-04 04:49:47 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-04 04:49:47 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-04 04:49:47 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-04 04:51:39 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-04 04:51:41 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-04 04:51:41 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-04 04:51:41 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-04 04:51:41 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-04 04:51:41 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-04 04:51:59 - <Sc2.Server> FolderChanged
+INFO  2012-09-04 04:52:23 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-04 04:52:25 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-04 04:52:25 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-04 04:52:25 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-04 04:52:25 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-04 04:52:25 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-04 04:52:43 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 08:30:56 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 08:30:58 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 08:30:58 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 08:30:58 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 08:30:58 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 08:30:58 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 08:31:17 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 08:35:51 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 08:35:53 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 08:35:53 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 08:35:53 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 08:35:53 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 08:35:53 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 08:36:11 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 08:39:19 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 08:39:20 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 08:39:20 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 08:39:20 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 08:39:20 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 08:39:20 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 08:39:38 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 08:43:25 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 08:43:27 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 08:43:27 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 08:43:27 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 08:43:27 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 08:43:27 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 08:43:45 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 09:19:53 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 09:19:54 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 09:19:54 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 09:19:54 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 09:19:54 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 09:19:54 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 09:20:12 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 09:29:12 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 09:29:14 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 09:29:14 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 09:29:14 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 09:29:14 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 09:29:14 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 09:29:32 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 09:33:29 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 09:33:31 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 09:33:31 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 09:33:31 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 09:33:31 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 09:33:31 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 09:33:49 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 09:36:39 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 09:36:41 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 09:36:41 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 09:36:41 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 09:36:41 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 09:36:41 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 09:36:59 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 09:55:33 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 09:55:35 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 09:55:35 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 09:55:35 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 09:55:35 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 09:55:35 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 09:55:53 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 10:01:39 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 10:01:41 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 10:01:41 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 10:01:41 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 10:01:41 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 10:01:41 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 10:01:59 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 10:11:28 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 10:11:30 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 10:11:30 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 10:11:30 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 10:11:30 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 10:11:30 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 10:11:48 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 10:12:28 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 10:12:30 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 10:12:30 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 10:12:30 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 10:12:30 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 10:12:30 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 10:12:48 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 10:25:45 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 10:25:46 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 10:25:46 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 10:25:46 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 10:25:46 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 10:25:46 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 10:29:01 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 10:29:02 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 10:29:02 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 10:29:03 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 10:29:03 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 10:29:03 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 11:40:32 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 11:40:34 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 11:40:34 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 11:40:34 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 11:40:34 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 11:40:34 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 11:40:54 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 11:43:06 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 11:43:07 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 11:43:07 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 11:43:07 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 11:43:10 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 11:43:10 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 11:44:30 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 11:44:33 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 11:44:33 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 11:44:33 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 11:44:33 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 11:44:33 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 11:45:31 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 11:45:32 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 11:45:32 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 11:45:32 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 11:45:32 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 11:45:32 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 11:46:12 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 11:46:14 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 11:46:14 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 11:46:14 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 11:46:14 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 11:46:14 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 11:47:09 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 11:54:36 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 11:54:40 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 11:54:40 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 11:54:40 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 11:54:40 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 11:54:40 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 11:56:25 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 11:56:28 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 11:56:28 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 11:56:28 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 11:56:29 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 11:56:29 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 11:56:55 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 12:02:14 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 12:02:15 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 12:02:15 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 12:02:15 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 12:02:15 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 12:02:15 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 12:02:35 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 12:04:18 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 12:04:20 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 12:04:20 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 12:04:20 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 12:04:20 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 12:04:20 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 12:04:38 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 12:19:56 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 12:19:59 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 12:19:59 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 12:19:59 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 12:20:00 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 12:20:00 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 12:20:25 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 12:22:59 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 12:23:01 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 12:23:01 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 12:23:01 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 12:23:01 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 12:23:01 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 12:23:19 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 12:28:33 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 12:28:35 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 12:28:35 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 12:28:35 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 12:28:35 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 12:28:35 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 12:30:00 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 12:30:02 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 12:30:02 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 12:30:02 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 12:30:04 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 12:30:04 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 12:30:22 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 12:32:52 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 12:32:54 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 12:32:54 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 12:32:54 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 12:32:54 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 12:32:54 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 12:33:12 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 12:34:30 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 12:34:32 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 12:34:32 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 12:34:32 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 12:34:32 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 12:34:32 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 12:34:50 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 12:45:33 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 12:45:35 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 12:45:35 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 12:45:35 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 12:45:35 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 12:45:35 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 12:45:54 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 12:50:34 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 12:50:38 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 12:50:38 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 12:50:38 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 12:50:38 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 12:50:38 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 12:51:04 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 12:51:06 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 12:51:06 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 12:51:06 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 12:51:06 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 12:51:06 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 12:51:24 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 12:52:50 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 12:52:51 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 12:52:51 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 12:52:51 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 12:52:51 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 12:52:51 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 12:53:09 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 01:05:20 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 01:05:22 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 01:05:22 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 01:05:22 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 01:05:22 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 01:05:22 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 01:05:40 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 02:08:10 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 02:08:12 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 02:08:12 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 02:08:12 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 02:08:12 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 02:08:12 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 02:08:30 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 02:09:48 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 02:09:49 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 02:09:49 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 02:09:49 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 02:09:49 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 02:09:49 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 02:10:07 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 02:13:40 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 02:13:43 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 02:13:43 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 02:13:43 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 02:13:43 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 02:13:43 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 02:14:01 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 02:14:38 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 02:14:40 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 02:14:40 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 02:14:40 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 02:14:40 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 02:14:40 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 02:14:58 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 02:17:48 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 02:17:50 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 02:17:50 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 02:17:50 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 02:17:50 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 02:17:50 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 02:18:08 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 02:20:52 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 02:20:54 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 02:20:54 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 02:20:54 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 02:20:54 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 02:20:54 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 02:21:12 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 02:56:32 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 02:56:34 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 02:56:34 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 02:56:34 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 02:56:34 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 02:56:34 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 02:56:53 - <Sc2.Server> FolderChanged
+INFO  2012-09-05 03:21:41 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-05 03:21:44 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-05 03:21:44 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-05 03:21:44 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-05 03:21:44 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-05 03:21:44 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-05 03:22:02 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 09:25:23 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 09:25:25 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 09:25:25 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 09:25:25 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 09:25:25 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 09:25:25 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 09:25:43 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 09:28:48 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 09:28:50 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 09:28:50 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 09:28:50 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 09:28:50 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 09:28:50 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 09:29:09 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 09:33:25 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 09:33:27 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 09:33:27 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 09:33:27 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 09:33:27 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 09:33:27 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 09:33:45 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 09:37:11 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 09:37:13 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 09:37:13 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 09:37:13 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 09:37:13 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 09:37:13 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 09:37:31 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 09:45:42 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 09:45:44 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 09:45:44 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 09:45:44 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 09:45:44 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 09:45:44 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 09:46:02 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 10:35:06 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 10:35:08 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 10:35:08 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 10:35:08 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 10:35:08 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 10:35:08 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 10:35:26 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 10:37:05 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 10:37:07 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 10:37:07 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 10:37:07 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 10:37:07 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 10:37:07 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 10:43:02 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 10:43:04 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 10:43:04 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 10:43:04 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 10:43:04 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 10:43:04 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 10:43:22 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 10:47:28 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 10:47:30 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 10:47:30 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 10:47:30 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 10:47:30 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 10:47:30 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 10:47:48 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 10:51:37 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 10:51:39 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 10:51:39 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 10:51:39 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 10:51:39 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 10:51:39 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 10:51:57 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 12:33:02 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 12:33:04 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 12:33:04 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 12:33:04 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 12:33:04 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 12:33:04 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 12:34:45 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 12:34:46 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 12:34:46 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 12:34:46 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 12:34:47 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 12:34:47 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 12:35:05 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 12:39:58 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 12:40:00 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 12:40:00 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 12:40:00 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 12:40:00 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 12:40:00 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 12:41:03 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 12:41:05 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 12:41:05 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 12:41:05 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 12:41:06 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 12:41:06 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 12:41:24 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 12:43:18 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 12:43:20 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 12:43:20 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 12:43:20 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 12:43:20 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 12:43:20 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 12:43:38 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 12:51:04 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 12:51:07 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 12:51:07 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 12:51:07 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 12:51:07 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 12:51:07 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 12:51:25 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 01:01:06 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 01:01:08 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 01:01:08 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 01:01:08 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 01:01:08 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 01:01:08 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 01:01:26 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 01:39:27 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 01:39:28 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 01:39:28 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 01:39:28 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 01:39:29 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 01:39:29 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 01:39:47 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 01:40:24 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 01:40:26 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 01:40:26 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 01:40:26 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 01:40:26 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 01:40:26 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 01:42:27 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 01:42:29 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 01:42:29 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 01:42:29 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 01:42:30 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 01:42:30 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 01:47:25 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 01:47:26 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 01:47:26 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 01:47:26 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 01:47:27 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 01:47:27 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 01:47:45 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 01:52:16 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 01:52:18 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 01:52:18 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 01:52:18 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 01:52:18 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 01:52:18 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 01:53:55 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 01:53:58 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 01:53:58 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 01:53:58 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 01:53:58 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 01:53:58 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 02:10:19 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 02:10:21 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 02:10:21 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 02:10:21 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 02:10:21 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 02:10:21 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 02:12:08 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 02:12:10 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 02:12:10 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 02:12:10 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 02:12:11 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 02:12:11 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 02:14:36 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 02:14:38 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 02:14:38 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 02:14:38 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 02:14:38 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 02:14:38 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 02:14:56 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 02:20:10 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 02:20:12 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 02:20:12 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 02:20:12 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 02:20:12 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 02:20:12 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 02:20:30 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 02:24:58 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 02:25:00 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 02:25:00 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 02:25:00 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 02:25:00 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 02:25:00 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 02:25:18 - <Sc2.Server> FolderChanged
+INFO  2012-09-06 02:46:08 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-06 02:46:11 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-06 02:46:11 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-06 02:46:11 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-06 02:46:11 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-06 02:46:11 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-06 02:46:29 - <Sc2.Server> FolderChanged
+INFO  2012-09-07 09:53:40 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-07 09:53:42 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-07 09:53:42 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-07 09:53:42 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-07 09:53:43 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-07 09:53:43 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-07 09:54:01 - <Sc2.Server> FolderChanged
+INFO  2012-09-07 09:54:53 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-07 09:54:55 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-07 09:54:55 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-07 09:54:55 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-07 09:54:55 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-07 09:54:55 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-07 09:55:13 - <Sc2.Server> FolderChanged
+INFO  2012-09-07 09:58:55 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-07 09:58:57 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-07 09:58:57 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-07 09:58:57 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-07 09:58:57 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-07 09:58:57 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-07 09:59:16 - <Sc2.Server> FolderChanged
+INFO  2012-09-07 10:12:41 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-07 10:12:43 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-07 10:12:43 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-07 10:12:43 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-07 10:12:43 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-07 10:12:43 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-07 10:13:01 - <Sc2.Server> FolderChanged
+INFO  2012-09-07 10:19:07 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-07 10:19:09 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-07 10:19:09 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-07 10:19:09 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-07 10:19:09 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-07 10:19:09 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-07 10:19:27 - <Sc2.Server> FolderChanged
+INFO  2012-09-07 10:22:34 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-07 10:22:35 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-07 10:22:35 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-07 10:22:35 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-07 10:22:36 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-07 10:22:36 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-07 10:26:17 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-07 10:26:20 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-07 10:26:20 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-07 10:26:20 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-07 10:26:20 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-07 10:26:20 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-07 10:32:53 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-07 10:32:55 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-07 10:32:55 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-07 10:32:55 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-07 10:32:55 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-07 10:32:55 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-07 10:33:17 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-07 10:33:19 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-07 10:33:19 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-07 10:33:19 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-07 10:33:19 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-07 10:33:19 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-07 10:33:45 - <Sc2.Server> FolderChanged
+INFO  2012-09-07 10:36:07 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-07 10:36:09 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-07 10:36:09 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-07 10:36:09 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-07 10:36:09 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-07 10:36:09 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-07 10:36:27 - <Sc2.Server> FolderChanged
+INFO  2012-09-07 11:09:06 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-07 11:09:08 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-07 11:09:08 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-07 11:09:08 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-07 11:09:08 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-07 11:09:08 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-07 11:09:26 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 08:06:49 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 08:06:51 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 08:06:51 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 08:06:51 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 08:06:51 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 08:06:51 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 08:07:12 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 08:53:55 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 08:53:57 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 08:53:57 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 08:53:57 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 08:53:58 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 08:53:58 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 08:54:16 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 08:59:13 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 08:59:15 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 08:59:15 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 08:59:15 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 08:59:15 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 08:59:15 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 08:59:33 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 09:03:54 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 09:03:55 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 09:03:55 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 09:03:55 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 09:03:56 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 09:03:56 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 09:04:14 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 09:07:17 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 09:07:19 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 09:07:19 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 09:07:19 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 09:07:19 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 09:07:19 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 09:07:37 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 09:08:56 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 09:08:58 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 09:08:58 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 09:08:58 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 09:08:58 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 09:08:58 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 09:09:16 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 09:14:54 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 09:14:56 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 09:14:56 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 09:14:56 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 09:14:56 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 09:14:56 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 09:15:14 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 09:17:46 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 09:17:48 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 09:17:48 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 09:17:48 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 09:17:48 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 09:17:48 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 09:18:07 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 09:48:02 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 09:48:03 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 09:48:03 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 09:48:03 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 09:48:04 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 09:48:04 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 09:48:22 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 09:49:12 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 09:49:14 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 09:49:14 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 09:49:14 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 09:49:14 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 09:49:14 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 09:52:02 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 09:52:04 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 09:52:04 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 09:52:04 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 09:52:04 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 09:52:04 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 09:52:22 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 09:54:09 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 09:54:11 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 09:54:11 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 09:54:11 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 09:54:11 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 09:54:11 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 09:54:29 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 09:58:48 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 09:58:50 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 09:58:50 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 09:58:50 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 09:58:51 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 09:58:51 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 09:59:09 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 09:59:56 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 09:59:58 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 09:59:58 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 09:59:58 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 09:59:58 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 09:59:58 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 10:00:16 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 10:20:27 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 10:20:28 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 10:20:28 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 10:20:28 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 10:20:29 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 10:20:29 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 10:20:47 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 10:21:53 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 10:21:55 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 10:21:55 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 10:21:55 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 10:21:55 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 10:21:55 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 10:22:13 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 01:48:32 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 01:48:34 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 01:48:34 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 01:48:34 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 01:48:34 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 01:48:34 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 01:48:53 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 02:01:08 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 02:01:10 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 02:01:10 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 02:01:10 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 02:01:10 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 02:01:10 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 02:01:28 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 02:05:25 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 02:05:27 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 02:05:27 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 02:05:27 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 02:05:27 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 02:05:27 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 02:05:45 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 02:34:39 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 02:34:41 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 02:34:41 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 02:34:41 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 02:34:41 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 02:34:41 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 02:34:59 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 02:36:05 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 02:36:08 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 02:36:08 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 02:36:08 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 02:36:08 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 02:36:08 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 02:36:26 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 02:39:05 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 02:39:07 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 02:39:07 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 02:39:07 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 02:39:07 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 02:39:07 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 02:39:25 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 02:40:33 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 02:40:35 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 02:40:35 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 02:40:35 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 02:40:36 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 02:40:36 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 02:40:54 - <Sc2.Server> FolderChanged
+INFO  2012-09-10 03:01:01 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-10 03:01:03 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-10 03:01:03 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-10 03:01:03 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-10 03:01:03 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-10 03:01:03 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-10 03:01:21 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 10:42:48 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 10:42:49 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 10:42:49 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 10:42:49 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 10:42:50 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 10:42:50 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 10:43:08 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 11:03:06 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 11:04:39 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 11:04:41 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 11:04:41 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 11:04:41 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 11:04:41 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 11:04:41 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 11:05:00 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 11:14:39 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 11:14:41 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 11:14:42 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 11:14:42 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 11:14:42 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 11:14:42 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 11:15:00 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 11:16:55 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 11:16:57 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 11:16:57 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 11:16:57 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 11:16:57 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 11:16:57 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 11:17:15 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 11:21:43 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 11:21:45 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 11:21:45 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 11:21:45 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 11:21:45 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 11:21:45 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 11:22:03 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 11:29:24 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 11:29:26 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 11:29:26 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 11:29:26 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 11:29:26 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 11:29:26 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 11:29:44 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 11:32:13 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 11:32:14 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 11:32:14 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 11:32:15 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 11:32:15 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 11:32:15 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 11:32:33 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 11:33:15 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 11:33:17 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 11:33:17 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 11:33:17 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 11:33:17 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 11:33:17 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 11:33:35 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 11:36:32 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 11:36:34 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 11:36:34 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 11:36:34 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 11:36:34 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 11:36:34 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 11:36:52 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 11:42:44 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 11:42:46 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 11:42:46 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 11:42:47 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 11:42:47 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 11:42:47 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 11:43:05 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 11:45:40 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 11:45:42 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 11:45:42 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 11:45:42 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 11:45:42 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 11:45:42 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 11:46:00 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 11:49:22 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 11:49:24 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 11:49:24 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 11:49:24 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 11:49:24 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 11:49:24 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 11:49:42 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 12:12:18 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 12:12:20 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 12:12:20 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 12:12:20 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 12:12:20 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 12:12:20 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 12:12:38 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 12:14:41 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 12:14:42 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 12:14:42 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 12:14:42 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 12:14:42 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 12:14:43 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 12:15:01 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 12:19:50 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 12:19:51 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 12:19:51 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 12:19:51 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 12:19:52 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 12:19:52 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 12:20:10 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 12:23:02 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 12:23:04 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 12:23:04 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 12:23:04 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 12:23:04 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 12:23:04 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 12:23:22 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 01:47:15 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 01:47:17 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 01:47:17 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 01:47:17 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 01:47:17 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 01:47:17 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 01:47:35 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 01:50:30 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 01:50:32 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 01:50:32 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 01:50:32 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 01:50:32 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 01:50:32 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 01:50:50 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 01:53:32 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 01:53:35 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 01:53:35 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 01:53:35 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 01:53:35 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 01:53:35 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 01:53:53 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 01:55:48 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 01:55:51 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 01:55:51 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 01:55:51 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 01:55:51 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 01:55:51 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 01:56:09 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 01:57:46 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 01:57:49 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 01:57:49 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 01:57:49 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 01:57:49 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 01:57:49 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 01:58:08 - <Sc2.Server> FolderChanged
+INFO  2012-09-11 01:59:44 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-11 01:59:47 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-11 01:59:47 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-11 01:59:47 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-11 01:59:47 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-11 01:59:47 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-11 02:00:05 - <Sc2.Server> FolderChanged
+INFO  2012-09-12 07:47:55 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-12 07:47:56 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-12 07:47:56 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-12 07:47:56 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-12 07:47:57 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-12 07:47:57 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-12 07:48:15 - <Sc2.Server> FolderChanged
+INFO  2012-09-12 09:00:15 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-12 09:00:17 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-12 09:00:17 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-12 09:00:17 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-12 09:00:17 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-12 09:00:17 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-12 09:05:11 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-12 09:05:17 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-12 09:05:17 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-12 09:05:18 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-12 09:05:19 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-12 09:05:19 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-12 01:34:24 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-12 01:34:26 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-12 01:34:26 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-12 01:34:26 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-12 01:34:27 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-12 01:34:27 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-12 01:41:23 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-12 01:41:27 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-12 01:41:27 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-12 01:41:27 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-12 01:41:27 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-12 01:41:27 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-12 01:41:45 - <Sc2.Server> FolderChanged
+INFO  2012-09-12 01:42:34 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-12 01:42:37 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-12 01:42:37 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-12 01:42:37 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-12 01:42:37 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-12 01:42:37 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-12 01:42:55 - <Sc2.Server> FolderChanged
+INFO  2012-09-12 01:44:31 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-12 01:44:33 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-12 01:44:33 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-12 01:44:33 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-12 01:44:33 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-12 01:44:33 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-12 01:44:51 - <Sc2.Server> FolderChanged
+INFO  2012-09-12 01:57:47 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-12 01:57:49 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-12 01:57:49 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-12 01:57:49 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-12 01:57:49 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-12 01:57:49 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-12 01:58:29 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-12 01:58:31 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-12 01:58:31 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-12 01:58:31 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-12 01:58:31 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-12 01:58:31 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-12 01:58:49 - <Sc2.Server> FolderChanged
+INFO  2012-09-13 08:01:43 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 08:01:45 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 08:01:45 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 08:01:45 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 08:01:48 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 08:01:48 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 08:02:05 - <Sc2.Server> FolderChanged
+INFO  2012-09-13 08:48:01 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 08:48:02 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 08:48:02 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 08:48:02 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 08:48:02 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 08:48:03 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 09:10:35 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 09:10:37 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 09:10:37 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 09:10:37 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 09:10:37 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 09:10:37 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 09:10:56 - <Sc2.Server> FolderChanged
+INFO  2012-09-13 10:06:27 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 10:06:29 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 10:06:29 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 10:06:29 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 10:06:29 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 10:06:29 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 10:06:47 - <Sc2.Server> FolderChanged
+INFO  2012-09-13 10:07:58 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 10:08:00 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 10:08:00 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 10:08:00 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 10:08:00 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 10:08:00 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 10:08:18 - <Sc2.Server> FolderChanged
+INFO  2012-09-13 10:10:06 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 10:10:08 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 10:10:08 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 10:10:08 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 10:10:08 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 10:10:08 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 10:10:26 - <Sc2.Server> FolderChanged
+INFO  2012-09-13 10:19:12 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 10:19:14 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 10:19:14 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 10:19:14 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 10:19:14 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 10:19:14 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 10:19:32 - <Sc2.Server> FolderChanged
+INFO  2012-09-13 10:20:52 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 10:20:54 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 10:20:54 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 10:20:54 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 10:20:54 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 10:20:54 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 10:31:19 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 10:31:20 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 10:31:20 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 10:31:20 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 10:31:21 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 10:31:21 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 10:39:52 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 10:39:54 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 10:39:54 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 10:39:54 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 10:39:54 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 10:39:54 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 10:40:13 - <Sc2.Server> FolderChanged
+INFO  2012-09-13 11:30:21 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 11:30:23 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 11:30:23 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 11:30:23 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 11:30:23 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 11:30:23 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 11:30:41 - <Sc2.Server> FolderChanged
+INFO  2012-09-13 11:33:18 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 11:33:20 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 11:33:20 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 11:33:20 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 11:33:20 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 11:33:20 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 11:33:38 - <Sc2.Server> FolderChanged
+INFO  2012-09-13 11:33:52 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 11:33:55 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 11:33:55 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 11:33:55 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 11:33:55 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 11:33:55 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 11:34:13 - <Sc2.Server> FolderChanged
+INFO  2012-09-13 11:36:03 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 11:36:05 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 11:36:05 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 11:36:06 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 11:36:06 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 11:36:06 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 11:36:24 - <Sc2.Server> FolderChanged
+INFO  2012-09-13 01:47:02 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 01:47:05 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 01:47:05 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 01:47:05 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 01:47:05 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 01:47:05 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 01:50:32 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 01:50:34 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 01:50:34 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 01:50:34 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 01:50:34 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 01:50:34 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 01:50:52 - <Sc2.Server> FolderChanged
+INFO  2012-09-13 01:52:08 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 01:52:10 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 01:52:10 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 01:52:10 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 01:52:10 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 01:52:10 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 01:53:35 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 01:53:37 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 01:53:37 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 01:53:37 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 01:53:37 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 01:53:37 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 01:54:32 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 01:54:34 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 01:54:34 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 01:54:34 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 01:54:34 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 01:54:34 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 01:56:59 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 01:57:01 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 01:57:01 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 01:57:01 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 01:57:01 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 01:57:01 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 01:57:19 - <Sc2.Server> FolderChanged
+INFO  2012-09-13 02:00:49 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 02:00:50 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 02:00:50 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 02:00:51 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 02:00:51 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 02:00:51 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 02:01:09 - <Sc2.Server> FolderChanged
+INFO  2012-09-13 02:03:23 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-13 02:03:25 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-13 02:03:25 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-13 02:03:25 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-13 02:03:25 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-13 02:03:25 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-13 02:03:43 - <Sc2.Server> FolderChanged
+INFO  2012-09-14 08:10:43 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-14 08:10:46 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-14 08:10:46 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-14 08:10:46 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-14 08:10:46 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-14 08:10:46 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-14 08:12:16 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-14 08:12:18 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-14 08:12:18 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-14 08:12:18 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-14 08:12:18 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-14 08:12:18 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-14 08:12:36 - <Sc2.Server> FolderChanged
+INFO  2012-09-14 11:19:42 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-14 11:19:44 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-14 11:19:44 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-14 11:19:44 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-14 11:19:44 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-14 11:19:44 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-14 11:20:02 - <Sc2.Server> FolderChanged
+INFO  2012-09-14 11:20:56 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-14 11:20:58 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-14 11:20:58 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-14 11:20:58 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-14 11:20:58 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-14 11:20:58 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-14 11:21:16 - <Sc2.Server> FolderChanged
+INFO  2012-09-14 12:07:12 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-14 12:07:14 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-14 12:07:14 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-14 12:07:14 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-14 12:07:14 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-14 12:07:14 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-14 12:07:33 - <Sc2.Server> FolderChanged
+INFO  2012-09-14 01:32:17 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-14 01:32:19 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-14 01:32:19 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-14 01:32:19 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-14 01:32:19 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-14 01:32:19 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-14 01:32:37 - <Sc2.Server> FolderChanged
+INFO  2012-09-14 01:38:28 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-14 01:38:30 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-14 01:38:30 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-14 01:38:30 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-14 01:38:30 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-14 01:38:30 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-14 01:38:49 - <Sc2.Server> FolderChanged
+INFO  2012-09-14 02:25:53 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-14 02:25:55 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-14 02:25:55 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-14 02:25:55 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-14 02:25:55 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-14 02:25:55 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-14 02:26:13 - <Sc2.Server> FolderChanged
+INFO  2012-09-14 02:31:18 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-14 02:31:20 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-14 02:31:20 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-14 02:31:20 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-14 02:31:20 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-14 02:31:20 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-14 02:31:38 - <Sc2.Server> FolderChanged
+INFO  2012-09-14 02:33:32 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-14 02:33:34 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-14 02:33:34 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-14 02:33:34 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-14 02:33:34 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-14 02:33:34 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-14 02:33:52 - <Sc2.Server> FolderChanged
+INFO  2012-09-14 02:37:30 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-14 02:37:32 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-14 02:37:32 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-14 02:37:32 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-14 02:37:32 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-14 02:37:32 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-14 02:37:50 - <Sc2.Server> FolderChanged
+INFO  2012-09-14 02:42:05 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-14 02:42:07 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-14 02:42:07 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-14 02:42:07 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-14 02:42:07 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-14 02:42:08 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-14 02:42:25 - <Sc2.Server> FolderChanged
+INFO  2012-09-14 03:09:19 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-14 03:09:21 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-14 03:09:21 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-14 03:09:21 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-14 03:09:21 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-14 03:09:21 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-14 03:09:39 - <Sc2.Server> FolderChanged
+INFO  2012-09-14 03:21:09 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-14 03:21:11 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-14 03:21:11 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-14 03:21:11 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-14 03:21:11 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-14 03:21:11 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-14 03:21:29 - <Sc2.Server> FolderChanged
+INFO  2012-09-14 03:26:58 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-14 03:26:59 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-14 03:26:59 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-14 03:27:00 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-14 03:27:00 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-14 03:27:00 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-14 03:27:18 - <Sc2.Server> FolderChanged
+INFO  2012-09-14 03:29:29 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-14 03:29:31 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-14 03:29:31 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-14 03:29:31 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-14 03:29:31 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-14 03:29:31 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-14 03:29:49 - <Sc2.Server> FolderChanged
+INFO  2012-09-14 03:31:58 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-14 03:32:00 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-14 03:32:00 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-14 03:32:00 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-14 03:32:00 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-14 03:32:00 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-14 03:32:18 - <Sc2.Server> FolderChanged
+INFO  2012-09-17 09:52:54 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-17 09:52:56 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-17 09:52:56 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-17 09:52:56 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-17 09:52:56 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-17 09:52:56 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-17 09:53:14 - <Sc2.Server> FolderChanged
+INFO  2012-09-17 09:58:50 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-17 09:58:52 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-17 09:58:52 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-17 09:58:52 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-17 09:58:52 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-17 09:58:52 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-17 09:59:10 - <Sc2.Server> FolderChanged
+INFO  2012-09-17 11:34:45 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-17 11:34:47 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-17 11:34:47 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-17 11:34:47 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-17 11:34:47 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-17 11:34:47 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-17 11:35:05 - <Sc2.Server> FolderChanged
+INFO  2012-09-17 11:36:32 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-17 11:36:34 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-17 11:36:34 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-17 11:36:34 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-17 11:36:34 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-17 11:36:34 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-17 11:36:52 - <Sc2.Server> FolderChanged
+INFO  2012-09-17 02:04:49 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-17 02:04:51 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-17 02:04:51 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-17 02:04:51 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-17 02:04:51 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-17 02:04:51 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-17 02:05:09 - <Sc2.Server> FolderChanged
+INFO  2012-09-17 02:08:13 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-17 02:08:14 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-17 02:08:14 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-17 02:08:14 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-17 02:08:14 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-17 02:08:14 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-17 02:08:32 - <Sc2.Server> FolderChanged
+INFO  2012-09-17 02:14:58 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-17 02:14:59 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-17 02:14:59 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-17 02:14:59 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-17 02:14:59 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-17 02:14:59 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-17 02:15:18 - <Sc2.Server> FolderChanged
+INFO  2012-09-17 02:16:43 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-17 02:16:44 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-17 02:16:44 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-17 02:16:45 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-17 02:16:45 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-17 02:16:45 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-17 02:17:05 - <Sc2.Server> FolderChanged
+INFO  2012-09-17 02:19:48 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-17 02:19:50 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-17 02:19:50 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-17 02:19:50 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-17 02:19:50 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-17 02:19:50 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-17 02:20:08 - <Sc2.Server> FolderChanged
+INFO  2012-09-17 02:24:20 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-17 02:24:21 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-17 02:24:21 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-17 02:24:21 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-17 02:24:22 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-17 02:24:22 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-17 02:24:40 - <Sc2.Server> FolderChanged
+INFO  2012-09-17 02:29:35 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-17 02:29:37 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-17 02:29:37 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-17 02:29:37 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-17 02:29:37 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-17 02:29:37 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-17 02:29:55 - <Sc2.Server> FolderChanged
+INFO  2012-09-17 02:45:41 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-17 02:45:43 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-17 02:45:43 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-17 02:45:43 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-17 02:45:43 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-17 02:45:43 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-17 02:46:01 - <Sc2.Server> FolderChanged
+INFO  2012-09-17 02:48:30 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-17 02:48:33 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-17 02:48:33 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-17 02:48:33 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-17 02:48:33 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-17 02:48:33 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-17 02:48:51 - <Sc2.Server> FolderChanged
+INFO  2012-09-17 02:50:39 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-17 02:50:41 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-17 02:50:41 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-17 02:50:41 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-17 02:50:41 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-17 02:50:41 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-17 02:50:59 - <Sc2.Server> FolderChanged
+INFO  2012-09-17 02:52:30 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-17 02:52:31 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-17 02:52:31 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-17 02:52:31 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-17 02:52:31 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-17 02:52:31 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-17 02:52:50 - <Sc2.Server> FolderChanged
+INFO  2012-09-18 08:05:27 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-18 08:05:28 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-18 08:05:28 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-18 08:05:29 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-18 08:05:29 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-18 08:05:29 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-18 08:05:47 - <Sc2.Server> FolderChanged
+INFO  2012-09-18 08:34:59 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-18 08:35:01 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-18 08:35:01 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-18 08:35:01 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-18 08:35:01 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-18 08:35:01 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-18 08:35:31 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-18 08:35:33 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-18 08:35:33 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-18 08:35:33 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-18 08:35:33 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-18 08:35:33 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-18 08:35:51 - <Sc2.Server> FolderChanged
+INFO  2012-09-18 08:38:12 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-18 08:38:14 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-18 08:38:14 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-18 08:38:14 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-18 08:38:14 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-18 08:38:14 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-18 08:38:32 - <Sc2.Server> FolderChanged
+INFO  2012-09-18 08:49:05 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-18 08:49:06 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-18 08:49:06 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-18 08:49:06 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-18 08:49:06 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-18 08:49:06 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-18 08:49:24 - <Sc2.Server> FolderChanged
+INFO  2012-09-18 08:53:09 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-18 08:53:11 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-18 08:53:11 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-18 08:53:11 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-18 08:53:11 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-18 08:53:11 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-18 08:53:29 - <Sc2.Server> FolderChanged
+INFO  2012-09-18 08:54:18 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-18 08:54:20 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-18 08:54:20 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-18 08:54:20 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-18 08:54:20 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-18 08:54:20 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-18 08:54:38 - <Sc2.Server> FolderChanged
+INFO  2012-09-18 08:58:02 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-18 08:58:05 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-18 08:58:05 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-18 08:58:05 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-18 08:58:05 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-18 08:58:05 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-18 08:58:23 - <Sc2.Server> FolderChanged
+INFO  2012-09-18 09:21:20 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-18 09:21:21 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-18 09:21:21 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-18 09:21:22 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-18 09:21:22 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-18 09:21:22 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-18 09:21:40 - <Sc2.Server> FolderChanged
+INFO  2012-09-18 09:23:10 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-18 09:23:11 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-18 09:23:11 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-18 09:23:11 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-18 09:23:11 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-18 09:23:11 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-18 09:23:30 - <Sc2.Server> FolderChanged
+INFO  2012-09-18 09:26:36 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-18 09:26:38 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-18 09:26:38 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-18 09:26:38 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-18 09:26:38 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-18 09:26:38 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-18 09:26:56 - <Sc2.Server> FolderChanged
+INFO  2012-09-18 09:29:32 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-18 09:29:33 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-18 09:29:34 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-18 09:29:34 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-18 09:29:34 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-18 09:29:34 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-18 09:29:52 - <Sc2.Server> FolderChanged
+INFO  2012-09-18 09:33:40 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-18 09:33:41 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-18 09:33:41 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-18 09:33:41 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-18 09:33:42 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-18 09:33:42 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-18 09:34:00 - <Sc2.Server> FolderChanged
+INFO  2012-09-18 09:44:10 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-18 09:44:12 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-18 09:44:12 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-18 09:44:12 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-18 09:44:13 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-18 09:44:13 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-18 09:44:31 - <Sc2.Server> FolderChanged
+INFO  2012-09-18 10:10:15 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-18 10:10:18 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-18 10:10:18 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-18 10:10:18 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-18 10:10:18 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-18 10:10:18 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-18 10:10:36 - <Sc2.Server> FolderChanged
+INFO  2012-09-18 10:12:47 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-18 10:12:49 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-18 10:12:49 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-18 10:12:49 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-18 10:12:49 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-18 10:12:49 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-18 10:13:07 - <Sc2.Server> FolderChanged
+INFO  2012-09-18 10:28:32 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-18 10:28:33 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-18 10:28:33 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-18 10:28:33 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-18 10:28:33 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-18 10:28:33 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-18 10:28:51 - <Sc2.Server> FolderChanged
+ERROR 2012-09-19 02:44:41 - Problem hashing file 'C:\dev\logiz\lib\Topshelf-2.2.2.0\NET40\Services\Sc2.Server\Sc2.Logistics.dll'. See the next log message for details.
+ERROR 2012-09-19 02:44:41 - Problem creating MD5 hash of file '{0}'. See inner exception details (have a look at the piece of code generating this to have a look at whether we can do something better).
+System.IO.IOException: The process cannot access the file 'C:\dev\logiz\lib\Topshelf-2.2.2.0\NET40\Services\Sc2.Server\Sc2.Logistics.dll' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at Topshelf.FileSystem.PollingFileSystemEventProducer.GenerateHashForFile(String file)
+INFO  2012-09-19 02:44:56 - <Sc2.Server> FolderChanged
+INFO  2012-09-19 02:52:59 - <TopShelf.DirectoryMonitor> Stopping
+INFO  2012-09-19 02:52:59 - [TopShelf.DirectoryMonitor] Stop complete
+INFO  2012-09-19 02:52:59 - <TopShelf.DirectoryMonitor> Stopped
+INFO  2012-09-19 02:53:00 - <TopShelf.DirectoryMonitor> Unloading
+INFO  2012-09-19 02:53:00 - [TopShelf.DirectoryMonitor] Unload complete
+INFO  2012-09-19 02:53:00 - <TopShelf.DirectoryMonitor> Unloaded
+INFO  2012-09-19 02:53:00 - [TopShelf.DirectoryMonitor] Unloading Shelf and AppDomain
+INFO  2012-09-20 08:17:10 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-20 08:17:11 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-20 08:17:11 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-20 08:17:11 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-20 08:17:11 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-20 08:17:11 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-20 08:17:29 - <Sc2.Server> FolderChanged
+INFO  2012-09-20 08:22:47 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-20 08:22:48 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-20 08:22:48 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-20 08:22:48 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-20 08:22:48 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-20 08:22:48 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-20 08:23:06 - <Sc2.Server> FolderChanged
+INFO  2012-09-20 08:30:13 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-20 08:30:14 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-20 08:30:14 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-20 08:30:14 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-20 08:30:14 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-20 08:30:14 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-20 08:30:32 - <Sc2.Server> FolderChanged
+INFO  2012-09-20 08:35:40 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-20 08:35:41 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-20 08:35:41 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-20 08:35:41 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-20 08:35:41 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-20 08:35:41 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-20 08:35:59 - <Sc2.Server> FolderChanged
+INFO  2012-09-20 12:16:32 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-20 12:16:35 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-20 12:16:35 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-20 12:16:35 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-20 12:16:35 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-20 12:16:35 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-20 12:16:53 - <Sc2.Server> FolderChanged
+INFO  2012-09-24 10:28:54 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-24 10:28:55 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-24 10:28:55 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-24 10:28:55 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-24 10:28:55 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-24 10:28:55 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-24 10:29:15 - <Sc2.Server> FolderChanged
+INFO  2012-09-25 11:51:51 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-25 11:51:52 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-25 11:51:52 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-25 11:51:52 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-25 11:51:52 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-25 11:51:52 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-25 11:52:10 - <Sc2.Server> FolderChanged
+INFO  2012-09-25 11:58:30 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-25 11:58:32 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-25 11:58:32 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-25 11:58:32 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-25 11:58:32 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-25 11:58:32 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-25 11:58:50 - <Sc2.Server> FolderChanged
+INFO  2012-09-25 12:29:24 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-25 12:29:26 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-25 12:29:26 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-25 12:29:26 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-25 12:29:26 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-25 12:29:26 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-25 12:29:45 - <Sc2.Server> FolderChanged
+INFO  2012-09-25 12:34:55 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-25 12:34:57 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-25 12:34:57 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-25 12:34:57 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-25 12:34:57 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-25 12:34:57 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-25 12:35:15 - <Sc2.Server> FolderChanged
+INFO  2012-09-25 12:38:53 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-25 12:38:55 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-25 12:38:55 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-25 12:38:55 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-25 12:38:55 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-25 12:38:55 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-25 12:39:13 - <Sc2.Server> FolderChanged
+INFO  2012-09-25 12:40:46 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-25 12:40:48 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-25 12:40:48 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-25 12:40:48 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-25 12:40:48 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-25 12:40:48 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-25 12:41:06 - <Sc2.Server> FolderChanged
+INFO  2012-09-25 12:57:51 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-25 12:57:53 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-25 12:57:53 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-25 12:57:53 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-25 12:57:53 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-25 12:57:53 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-25 12:58:11 - <Sc2.Server> FolderChanged
+INFO  2012-09-25 01:06:56 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-25 01:06:57 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-25 01:06:57 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-25 01:06:57 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-25 01:06:57 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-25 01:06:57 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-25 01:07:15 - <Sc2.Server> FolderChanged
+INFO  2012-09-25 01:10:14 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-25 01:10:16 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-25 01:10:16 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-25 01:10:16 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-25 01:10:16 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-25 01:10:16 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-25 01:10:34 - <Sc2.Server> FolderChanged
+INFO  2012-09-25 01:26:51 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-25 01:26:52 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-25 01:26:52 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-25 01:26:52 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-25 01:26:52 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-25 01:26:52 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-25 01:27:10 - <Sc2.Server> FolderChanged
+INFO  2012-09-28 11:23:10 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 11:23:11 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 11:23:11 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 11:23:11 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 11:23:11 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 11:23:11 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 11:23:29 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-28 11:27:34 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 11:27:35 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 11:27:35 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 11:27:35 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 11:27:35 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 11:27:35 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 11:27:53 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-28 11:28:17 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 11:28:19 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 11:28:19 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 11:28:19 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 11:28:19 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 11:28:19 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 11:28:37 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-28 11:33:27 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 11:33:29 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 11:33:29 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 11:33:29 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 11:33:29 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 11:33:29 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 11:33:47 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-28 12:55:58 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 12:55:59 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 12:55:59 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 12:55:59 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 12:55:59 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 12:55:59 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 12:56:17 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-28 12:58:50 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 12:58:51 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 12:58:51 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 12:58:51 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 12:58:51 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 12:58:51 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 12:59:10 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-28 01:00:43 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 01:00:44 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 01:00:44 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 01:00:44 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 01:00:45 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 01:00:45 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 01:01:03 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-28 01:07:02 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 01:07:04 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 01:07:04 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 01:07:04 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 01:07:04 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 01:07:04 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 01:07:22 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-28 01:10:11 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 01:10:12 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 01:10:12 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 01:10:12 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 01:10:12 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 01:10:12 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 01:10:30 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-28 01:12:45 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 01:12:46 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 01:12:46 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 01:12:46 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 01:12:47 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 01:12:47 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 01:13:05 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-28 01:13:37 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 01:13:38 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 01:13:38 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 01:13:38 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 01:13:38 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 01:13:38 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 01:13:56 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-28 01:17:21 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 01:17:23 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 01:17:23 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 01:17:23 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 01:17:23 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 01:17:23 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 01:17:41 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-28 01:21:22 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 01:21:24 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 01:21:24 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 01:21:24 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 01:21:24 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 01:21:24 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 01:21:42 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-28 10:07:47 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 10:07:48 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 10:07:48 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 10:07:48 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 10:07:48 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 10:07:48 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 10:08:07 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-28 11:13:48 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 11:13:49 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 11:13:49 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 11:13:49 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 11:13:50 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 11:13:50 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 11:14:07 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-28 11:23:09 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 11:23:10 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 11:23:10 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 11:23:10 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 11:23:10 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 11:23:10 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 11:23:28 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-28 11:30:27 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 11:30:29 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 11:30:29 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 11:30:30 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 11:30:30 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 11:30:30 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 11:30:48 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-28 11:34:46 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 11:34:48 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 11:34:48 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 11:34:48 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 11:34:48 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 11:34:48 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 11:35:06 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-28 11:43:16 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 11:43:17 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 11:43:17 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 11:43:17 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 11:43:18 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 11:43:18 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 11:44:03 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-28 11:50:17 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-28 11:50:19 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-28 11:50:19 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-28 11:50:19 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-28 11:50:19 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-28 11:50:19 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-28 11:50:37 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-29 12:00:36 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-29 12:00:38 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-29 12:00:38 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-29 12:00:38 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-29 12:00:38 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-29 12:00:38 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-29 12:00:56 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-29 12:02:32 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-29 12:02:34 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-29 12:02:34 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-29 12:02:34 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-29 12:02:34 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-29 12:02:34 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-29 12:02:52 - <QuadAuto.Server> FolderChanged
+INFO  2012-09-29 12:05:46 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.269
+INFO  2012-09-29 12:05:47 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2012-09-29 12:05:47 - <TopShelf.DirectoryMonitor> Created
+INFO  2012-09-29 12:05:47 - <TopShelf.DirectoryMonitor> Starting
+INFO  2012-09-29 12:05:47 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2012-09-29 12:05:47 - <TopShelf.DirectoryMonitor> Running
+INFO  2012-09-29 12:06:05 - <QuadAuto.Server> FolderChanged

@@ -1,0 +1,23 @@
+﻿@model  QuadAuto.Web.Controllers.Committees.QueryModels.CommitteesQueryModel
+@{
+    ViewBag.Title = "Home Page";
+    
+}
+
+<h2>@ViewBag.Message</h2>
+<p>
+    To learn more about ASP.NET MVC visit <a href="http://asp.net/mvc" title="ASP.NET MVC Website">http://asp.net/mvc</a>.
+</p>
+<table>
+    <tr>
+        <td>Name</td>
+        <td>Content</td>
+    </tr>
+
+@foreach (var c in Model.Committees)
+{
+    <tr>
+        <td>@c.Name</td>
+        <td>@c.Content</td>
+    </tr>
+}</table>

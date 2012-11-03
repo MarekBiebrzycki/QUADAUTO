@@ -1,0 +1,5 @@
+C:\QUADAUTO\Website\QuadAuto\bin\Debug\QuadAuto.dll
+C:\QUADAUTO\Website\QuadAuto\bin\Debug\QuadAuto.pdb
+C:\QUADAUTO\Website\QuadAuto\obj\Debug\ResolveAssemblyReference.cache
+C:\QUADAUTO\Website\QuadAuto\obj\Debug\QuadAuto.dll
+C:\QUADAUTO\Website\QuadAuto\obj\Debug\QuadAuto.pdb

@@ -1,0 +1,7 @@
+//MPD-File
+#ifndef(pack_C1) #declare global_pack_C1=yes; object {CAP_SMD_CHIP_0805()translate<0,0,0> rotate<0,0.000000,0>rotate<0,-180.000000,0> rotate<0,0,0> translate<29.210000,0.000000,15.240000>translate<0,0.035000,0> }#end		//SMD Capacitor 0805 C1  0805
+#ifndef(pack_C4) #declare global_pack_C4=yes; object {CAP_SMD_CHIP_0805()translate<0,0,0> rotate<0,0.000000,0>rotate<0,-180.000000,0> rotate<0,0,0> translate<20.320000,0.000000,15.240000>translate<0,0.035000,0> }#end		//SMD Capacitor 0805 C4  0805
+#ifndef(pack_C9) #declare global_pack_C9=yes; object {CAP_SMD_CHIP_0805()translate<0,0,0> rotate<0,0.000000,0>rotate<0,-180.000000,0> rotate<0,0,0> translate<19.050000,0.000000,27.940000>translate<0,0.035000,0> }#end		//SMD Capacitor 0805 C9  0805
+#ifndef(pack_IC2) #declare global_pack_IC2=yes; object {IC_SMD_SOT223("REG1117","ST",)translate<0,0,0> rotate<0,0.000000,0>rotate<0,0.000000,0> rotate<0,0,0> translate<20.320000,0.000000,34.290000>translate<0,0.035000,0> }#end		//SOT223 IC2 REG1117 SOT223
+#ifndef(pack_IC4) #declare global_pack_IC4=yes; object {IC_SMD_DPAK_369C("MC33269D-5.0","ST",)translate<0,0,-0.5> rotate<0,0.000000,0>rotate<0,0.000000,0> rotate<0,0,0> translate<29.210000,0.000000,20.320000>translate<0,0.035000,0> }#end		//DPAK CASE 369C IC4 MC33269D-5.0 DPACK
+#ifndef(pack_IC7) #declare global_pack_IC7=yes; object {IC_SMD_DPAK_369C("MC33269D-3.3","ST",)translate<0,0,-0.5> rotate<0,0.000000,0>rotate<0,0.000000,0> rotate<0,0,0> translate<20.320000,0.000000,20.320000>translate<0,0.035000,0> }#end		//DPAK CASE 369C IC7 MC33269D-3.3 DPACK

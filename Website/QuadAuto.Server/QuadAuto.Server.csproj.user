@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\QUADAUTO\Website\Libs\Topshelf-2.2.2.0\NET40\Topshelf.Host.exe</StartProgram>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>C:\QUADAUTO\Website\Libs\;C:\QUADAUTO\Website\Libs\AutoMapper.2.0.0\;C:\QUADAUTO\Website\Libs\Castle.Windsor.3.0.0\net40\;C:\QUADAUTO\Website\Libs\CommonDomain\;C:\QUADAUTO\Website\Libs\EventStore\;C:\QUADAUTO\Website\Libs\EventStore\plugins\serialization\servicestack\;C:\QUADAUTO\Website\Libs\FluentScheduler\;C:\QUADAUTO\Website\Libs\MassTransit-2.6.1.aecff9\net-4.0\;C:\QUADAUTO\Website\Libs\MassTransit-2.6.1.aecff9\net-4.0\Transports\RabbitMQ\;C:\QUADAUTO\Website\Libs\MassTransit-2.6.1.aecff9\net-4.0\Logging\;C:\QUADAUTO\Website\Libs\MassTransit-2.6.1.aecff9\net-4.0\Containers\;C:\QUADAUTO\Website\Libs\mongo-csharp-driver\;C:\QUADAUTO\Website\Libs\Npgsql2.0.11.93-bin-ms.net4.0\;C:\QUADAUTO\Website\Libs\Topshelf-2.2.2.0\NET40\</ReferencePath>
+  </PropertyGroup>
+</Project>

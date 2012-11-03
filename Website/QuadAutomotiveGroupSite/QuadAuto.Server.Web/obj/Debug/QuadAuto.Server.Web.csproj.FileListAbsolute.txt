@@ -1,0 +1,8 @@
+C:\QUADAUTO\Website\QuadAutomotiveGroupSite\QuadAuto.Server.Web\bin\Debug\QuadAuto.Server.Web.dll
+C:\QUADAUTO\Website\QuadAutomotiveGroupSite\QuadAuto.Server.Web\bin\Debug\QuadAuto.Server.Web.pdb
+C:\QUADAUTO\Website\QuadAutomotiveGroupSite\QuadAuto.Server.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\QUADAUTO\Website\QuadAutomotiveGroupSite\QuadAuto.Server.Web\obj\Debug\QuadAuto.Server.Web.dll
+C:\QUADAUTO\Website\QuadAutomotiveGroupSite\QuadAuto.Server.Web\obj\Debug\QuadAuto.Server.Web.pdb
+C:\QUADAUTO\Website\Libs\Topshelf-2.2.2.0\NET40\Services\QuadAuto.Server\QuadAuto.Server.Web.dll
+C:\QUADAUTO\Website\Libs\Topshelf-2.2.2.0\NET40\Services\QuadAuto.Server\QuadAuto.Server.Web.pdb
+C:\QUADAUTO\Website\Libs\Topshelf-2.2.2.0\NET40\Services\QuadAuto.Server\QuadAuto.Server.config

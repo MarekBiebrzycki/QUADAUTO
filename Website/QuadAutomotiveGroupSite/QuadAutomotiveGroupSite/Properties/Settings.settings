@@ -1,0 +1,26 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="QuadAutomotiveGroupSite.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MassTransitRecieveFrom" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+        rabbitmq://192.168.79.1/QuadAuto_Web
+      </Value>
+    </Setting>
+    <Setting Name="MassTransitRecieveFromDebug" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+        rabbitmq://192.168.79.1/QuadAuto_Web
+      </Value>
+    </Setting>
+    <Setting Name="MongoDbConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+        mongodb://192.168.79.1/?safe=true
+      </Value>
+    </Setting>
+    <Setting Name="MongoDbConnectionStringDebug" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+        mongodb://192.168.79.1/?safe=true
+      </Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

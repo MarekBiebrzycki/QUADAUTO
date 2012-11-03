@@ -1322,32 +1322,37 @@ Source: http://www.onsemi.com/pub/Collateral/MC33269-D.PDF</description>
 <library name="terrys">
 <packages>
 <package name="QUADBOARD">
-<wire x1="-25" y1="25" x2="25" y2="25" width="0.6096" layer="20"/>
-<wire x1="25" y1="25" x2="25" y2="-25" width="0.6096" layer="20"/>
-<wire x1="25" y1="-25" x2="-25" y2="-25" width="0.6096" layer="20"/>
-<wire x1="-25" y1="-25" x2="-25" y2="25" width="0.6096" layer="20"/>
-<hole x="-22.5" y="22.5" drill="2.8"/>
-<hole x="22.5" y="22.5" drill="2.8"/>
-<hole x="22.5" y="-22.5" drill="2.8"/>
-<hole x="-22.5" y="-22.5" drill="2.8"/>
-<pad name="5V" x="19.05" y="22.86" drill="1.016"/>
-<pad name="3.3V" x="16.51" y="22.86" drill="1.016"/>
-<pad name="1.8V" x="13.97" y="22.86" drill="1.016"/>
-<pad name="GND" x="11.43" y="22.86" drill="1.016"/>
-<pad name="RX" x="8.89" y="22.86" drill="1.016"/>
-<pad name="TX" x="6.35" y="22.86" drill="1.016"/>
-<text x="18.415" y="21.59" size="1.27" layer="21" rot="R270">5V</text>
-<text x="15.875" y="21.59" size="1.27" layer="21" rot="R270">3.3V</text>
-<text x="13.335" y="21.59" size="1.27" layer="21" rot="R270">1.8V</text>
-<text x="10.795" y="21.59" size="1.27" layer="21" rot="R270">GND</text>
-<text x="8.255" y="21.59" size="1.27" layer="21" rot="R270">RX</text>
-<text x="5.715" y="21.59" size="1.27" layer="21" rot="R270">TX</text>
-<wire x1="5.08" y1="24.765" x2="5.08" y2="21.59" width="0.127" layer="21"/>
-<wire x1="5.08" y1="21.59" x2="5.08" y2="17.145" width="0.127" layer="21"/>
-<wire x1="5.08" y1="17.145" x2="20.32" y2="17.145" width="0.127" layer="21"/>
-<wire x1="20.32" y1="17.145" x2="20.32" y2="21.59" width="0.127" layer="21"/>
-<wire x1="20.32" y1="21.59" x2="20.32" y2="24.765" width="0.127" layer="21"/>
-<wire x1="5.08" y1="21.59" x2="20.32" y2="21.59" width="0.127" layer="21"/>
+<pad name="5V" x="17.78" y="22.86" drill="1.016"/>
+<pad name="3.3V" x="15.24" y="22.86" drill="1.016"/>
+<pad name="1.8V" x="12.7" y="22.86" drill="1.016"/>
+<pad name="GND" x="10.16" y="22.86" drill="1.016"/>
+<pad name="RX" x="7.62" y="22.86" drill="1.016"/>
+<pad name="TX" x="5.08" y="22.86" drill="1.016"/>
+<text x="17.145" y="21.59" size="1.27" layer="21" rot="R270">5V</text>
+<text x="14.605" y="21.59" size="1.27" layer="21" rot="R270">3.3V</text>
+<text x="12.065" y="21.59" size="1.27" layer="21" rot="R270">1.8V</text>
+<text x="9.525" y="21.59" size="1.27" layer="21" rot="R270">GND</text>
+<text x="6.985" y="21.59" size="1.27" layer="21" rot="R270">VIN</text>
+<text x="4.445" y="21.59" size="1.27" layer="21" rot="R270">SENSE</text>
+<wire x1="3.81" y1="24.765" x2="3.81" y2="21.59" width="0.127" layer="21"/>
+<wire x1="3.81" y1="21.59" x2="3.81" y2="15.24" width="0.127" layer="21"/>
+<wire x1="3.81" y1="15.24" x2="19.05" y2="15.24" width="0.127" layer="21"/>
+<wire x1="19.05" y1="15.24" x2="19.05" y2="21.59" width="0.127" layer="21"/>
+<wire x1="19.05" y1="21.59" x2="19.05" y2="24.765" width="0.127" layer="21"/>
+<wire x1="3.81" y1="21.59" x2="19.05" y2="21.59" width="0.127" layer="21"/>
+<wire x1="-20.9296" y1="-24.9936" x2="22.7584" y2="-24.9936" width="0.127" layer="21"/>
+<wire x1="22.7584" y1="-24.9936" x2="24.9936" y2="-22.7584" width="0.127" layer="21" curve="90"/>
+<wire x1="24.9936" y1="-22.7584" x2="24.9936" y2="21.336" width="0.127" layer="21"/>
+<wire x1="24.9936" y1="21.336" x2="21.336" y2="24.9936" width="0.127" layer="21" curve="90"/>
+<wire x1="21.336" y1="24.9936" x2="-22.352" y2="24.9936" width="0.127" layer="21"/>
+<wire x1="-22.352" y1="24.9936" x2="-24.9936" y2="22.352" width="0.127" layer="21" curve="90"/>
+<wire x1="-24.9936" y1="22.352" x2="-24.9936" y2="-20.9296" width="0.127" layer="21"/>
+<wire x1="-24.9936" y1="-20.9296" x2="-20.9296" y2="-24.9936" width="0.127" layer="21" curve="90"/>
+<wire x1="-25" y1="25" x2="25" y2="-25" width="0.127" layer="48"/>
+<wire x1="-25" y1="-25" x2="25" y2="25" width="0.127" layer="48"/>
+<wire x1="0" y1="16" x2="0" y2="23" width="1.27" layer="21"/>
+<wire x1="-2" y1="20" x2="0" y2="23" width="1.27" layer="21"/>
+<wire x1="0" y1="23" x2="2" y2="20" width="1.27" layer="21"/>
 </package>
 <package name="ESCPOWER">
 <smd name="GND" x="0" y="3.81" dx="6.4516" dy="3.2512" layer="1"/>
@@ -1366,12 +1371,12 @@ Source: http://www.onsemi.com/pub/Collateral/MC33269-D.PDF</description>
 <pin name="3.3V" x="-2.54" y="5.08" length="middle"/>
 <pin name="1.8V" x="-2.54" y="2.54" length="middle"/>
 <pin name="GND" x="-2.54" y="0" length="middle"/>
-<pin name="RX" x="-2.54" y="-2.54" length="middle"/>
-<pin name="TX" x="-2.54" y="-5.08" length="middle"/>
-<wire x1="10.16" y1="10.16" x2="2.54" y2="10.16" width="0.254" layer="94"/>
+<pin name="VIN" x="-2.54" y="-2.54" length="middle"/>
+<pin name="BATTSENSE" x="-2.54" y="-5.08" length="middle"/>
+<wire x1="17.78" y1="10.16" x2="2.54" y2="10.16" width="0.254" layer="94"/>
 <wire x1="2.54" y1="10.16" x2="2.54" y2="-7.62" width="0.254" layer="94"/>
-<wire x1="2.54" y1="-7.62" x2="10.16" y2="-7.62" width="0.254" layer="94"/>
-<wire x1="10.16" y1="-7.62" x2="10.16" y2="10.16" width="0.254" layer="94"/>
+<wire x1="2.54" y1="-7.62" x2="17.78" y2="-7.62" width="0.254" layer="94"/>
+<wire x1="17.78" y1="-7.62" x2="17.78" y2="10.16" width="0.254" layer="94"/>
 </symbol>
 <symbol name="ESCPOWER">
 <pin name="GND" x="0" y="7.62" length="middle"/>
@@ -1393,9 +1398,9 @@ Source: http://www.onsemi.com/pub/Collateral/MC33269-D.PDF</description>
 <connect gate="G$1" pin="1.8V" pad="1.8V"/>
 <connect gate="G$1" pin="3.3V" pad="3.3V"/>
 <connect gate="G$1" pin="5V" pad="5V"/>
+<connect gate="G$1" pin="BATTSENSE" pad="TX"/>
 <connect gate="G$1" pin="GND" pad="GND"/>
-<connect gate="G$1" pin="RX" pad="RX"/>
-<connect gate="G$1" pin="TX" pad="TX"/>
+<connect gate="G$1" pin="VIN" pad="RX"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -1645,7 +1650,7 @@ Source: http://www.onsemi.com/pub/Collateral/MC33269-D.PDF</description>
 <wire x1="213.36" y1="104.14" x2="215.9" y2="104.14" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$12" class="1">
+<net name="VIN" class="1">
 <segment>
 <pinref part="IC4" gate="G$1" pin="VI"/>
 <pinref part="U$2" gate="G$1" pin="VIN"/>
@@ -1691,7 +1696,7 @@ Source: http://www.onsemi.com/pub/Collateral/MC33269-D.PDF</description>
 <segment>
 <wire x1="203.2" y1="96.52" x2="213.36" y2="96.52" width="0.1524" layer="91" style="longdash"/>
 <label x="203.2" y="96.52" size="1.778" layer="95" rot="R180"/>
-<pinref part="QB1" gate="G$1" pin="RX"/>
+<pinref part="QB1" gate="G$1" pin="VIN"/>
 <wire x1="213.36" y1="96.52" x2="215.9" y2="96.52" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -1699,7 +1704,7 @@ Source: http://www.onsemi.com/pub/Collateral/MC33269-D.PDF</description>
 <segment>
 <wire x1="203.2" y1="93.98" x2="213.36" y2="93.98" width="0.1524" layer="91" style="longdash"/>
 <label x="203.2" y="93.98" size="1.778" layer="95" rot="R180"/>
-<pinref part="QB1" gate="G$1" pin="TX"/>
+<pinref part="QB1" gate="G$1" pin="BATTSENSE"/>
 <wire x1="213.36" y1="93.98" x2="215.9" y2="93.98" width="0.1524" layer="91"/>
 </segment>
 </net>
