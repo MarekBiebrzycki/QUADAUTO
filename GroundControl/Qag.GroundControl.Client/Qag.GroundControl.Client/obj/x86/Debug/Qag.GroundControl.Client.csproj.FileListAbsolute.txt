@@ -1,0 +1,16 @@
+C:\QUADAUTO\GroundControl\Qag.GroundControl.Client\Qag.GroundControl.Client\bin\Debug\Qag.GroundControl.Client.exe
+C:\QUADAUTO\GroundControl\Qag.GroundControl.Client\Qag.GroundControl.Client\bin\Debug\Qag.GroundControl.Client.pdb
+C:\QUADAUTO\GroundControl\Qag.GroundControl.Client\Qag.GroundControl.Client\bin\Debug\Caliburn.Micro.dll
+C:\QUADAUTO\GroundControl\Qag.GroundControl.Client\Qag.GroundControl.Client\bin\Debug\System.Windows.Interactivity.dll
+C:\QUADAUTO\GroundControl\Qag.GroundControl.Client\Qag.GroundControl.Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\QUADAUTO\GroundControl\Qag.GroundControl.Client\Qag.GroundControl.Client\obj\x86\Debug\Views\ShellView.baml
+C:\QUADAUTO\GroundControl\Qag.GroundControl.Client\Qag.GroundControl.Client\obj\x86\Debug\Views\ShellView.g.cs
+C:\QUADAUTO\GroundControl\Qag.GroundControl.Client\Qag.GroundControl.Client\obj\x86\Debug\App.g.cs
+C:\QUADAUTO\GroundControl\Qag.GroundControl.Client\Qag.GroundControl.Client\obj\x86\Debug\Qag.GroundControl.Client_Content.g.cs
+C:\QUADAUTO\GroundControl\Qag.GroundControl.Client\Qag.GroundControl.Client\obj\x86\Debug\Qag.GroundControl.Client_MarkupCompile.cache
+C:\QUADAUTO\GroundControl\Qag.GroundControl.Client\Qag.GroundControl.Client\obj\x86\Debug\Qag.GroundControl.Client.g.resources
+C:\QUADAUTO\GroundControl\Qag.GroundControl.Client\Qag.GroundControl.Client\obj\x86\Debug\Qag.GroundControl.Client.Properties.Resources.resources
+C:\QUADAUTO\GroundControl\Qag.GroundControl.Client\Qag.GroundControl.Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\QUADAUTO\GroundControl\Qag.GroundControl.Client\Qag.GroundControl.Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\QUADAUTO\GroundControl\Qag.GroundControl.Client\Qag.GroundControl.Client\obj\x86\Debug\Qag.GroundControl.Client.exe
+C:\QUADAUTO\GroundControl\Qag.GroundControl.Client\Qag.GroundControl.Client\obj\x86\Debug\Qag.GroundControl.Client.pdb
